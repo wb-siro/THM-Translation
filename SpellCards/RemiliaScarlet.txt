@@ -1,11 +1,15 @@
 ja:神槍「エンシェントカタクリズム」
 en:Divine Spear "Ancient Cataclysm"
+es:Lanza Divina "Antiguo Cataclismo"
 
 ja:冥符「紅色の冥界」
 en:Nether Sign "Scarlet Netherworld"
+en:Signo del Inferior "Inframundo Escarlata"
 
 ja:獄符「千本の針の山」
 en:Hell Sign "Mountain of a Thousand Needles"
+es:Signo Infernal "Montaña de las Mil Agujas"
 
 ja:「スカーレットディスティニー」
 en:"Scarlet Destiny"
+es:"Destino Escarlata"
