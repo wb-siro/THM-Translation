@@ -4,7 +4,7 @@ es:Lanza Divina "Antiguo Cataclismo"
 
 ja:冥符「紅色の冥界」
 en:Nether Sign "Scarlet Netherworld"
-en:Signo del Inferior "Inframundo Escarlata"
+en:Signo de lo Inferior "Inframundo Escarlata"
 
 ja:獄符「千本の針の山」
 en:Hell Sign "Mountain of a Thousand Needles"
