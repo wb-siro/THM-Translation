@@ -10,6 +10,16 @@ en:Freeze Sign "Perfect Freeze"
 ar: // Write Arabic translation //  
 ~~~
 
+### `// `を付けるとコメントを記述できます
+~~~
+// Please write your comments in English.
+~~~
+特定の翻訳のコメントを記述する場合は翻訳の後ろにも記述できます
+~~~
+ja:Touch to Start // English is fine.
+en:Touch to Start
+~~~
+
 ## 言語コードはISO 639-1を参照してください  
 使用率の高い言語コードを以下に記述します(Abc order)  
 ~~~
