@@ -1,27 +1,28 @@
-# 東方魔導禄のゲーム内テキスト
+# In-game text of Touhou Madouroku
 
-協力ありがとうございます。  
-翻訳を行う場合、言語コードを追加して翻訳文を記述してください。  
+Thank you for your continued patronage.  
+When translating, please add the language code and write the translated text.   
+There are no deadlines or quotas for translations! Thanks!  
 
-### 例）When adding an Arabic translation  
+### Exampl:When adding an Arabic translation  
 ~~~
 ja:凍符「パーフェクトフリーズ」  
 en:Freeze Sign "Perfect Freeze"  
 ar: // Write Arabic translation //  
 ~~~
 
-### `// `を付けるとコメントを記述できます
+### You can add comments with `// `  
 ~~~
 // Please write your comments in English.
 ~~~
-特定の翻訳のコメントを記述する場合は翻訳の後ろにも記述できます
+If you want to comment on a specific translation, you can also put it after  
 ~~~
 ja:Touch to Start // English is fine.
 en:Touch to Start
 ~~~
 
-## 言語コードはISO 639-1を参照してください  
-使用率の高い言語コードを以下に記述します(Abc order)  
+## See ISO 639-1 for language codes  
+Language codes with high usage(Abc order)  
 ~~~
 ar:Arabic  
 bn:Bengali  
@@ -35,4 +36,4 @@ ru:Russian
 zh:Chinese  
 ~~~
 # 
-東方二次創作ゲーム「東方魔導禄」の翻訳リスト
+In-game text for the Touhou secondary game "Touhou Majuroku".
