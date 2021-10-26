@@ -1,0 +1,11 @@
+ja:表象「弾幕パラノイア」
+en:Representation "Danmaku Paranoia"
+
+ja:無意識「爆撃フェイバリット」
+en:Unconscious "Bombing Favorite"
+
+ja:本能「イドの解放」
+en:Instinct "Release of the Id"
+
+ja:復燃「恋の埋火」
+en:Rekindled "The Embers of Love"

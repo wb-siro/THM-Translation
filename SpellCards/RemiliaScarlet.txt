@@ -1,0 +1,11 @@
+ja:神槍「エンシェントカタクリズム」
+en:Divine Spear "Ancient Cataclysm"
+
+ja:冥符「紅色の冥界」
+en:Nether Sign "Scarlet Netherworld"
+
+ja:獄符「千本の針の山」
+en:Hell Sign "Mountain of a Thousand Needles"
+
+ja:「スカーレットディスティニー」
+en:"Scarlet Destiny"
