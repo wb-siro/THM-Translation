@@ -1,0 +1,17 @@
+ja:大輪「からかさ後光」
+en:Large Ring "Umbrella Halo"
+
+ja:大輪「ハロウフォゴットンワールド」
+en:Large Ring "Hello Forgotten World"
+
+ja:傘符「パラソルスターシンフォニー」
+en:Umbrella Sign "Parasol Star Symphony"
+
+ja:傘符「パラソルスターメモリーズ」
+en:Umbrella Sign "Parasol Star Memories"
+
+ja:傘芸「アンブレラソング」
+en:Umbrella Art "Umbrella Song"
+
+ja:妖楽「オープン・ザ・アンブレラ」
+en:Youraku "Open the Umbrella"
