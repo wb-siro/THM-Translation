@@ -1,17 +1,23 @@
 ja:水符「河童のポロロッカ」
 en:Water Sign "Kappa's Pororoca"
+es:Signo de Agua "Pororoca del Kappa"
 
 ja:水符「河童のフラッシュフラッド」
 en:Water Sign "Kappa's Flash Flood"
+es:Signo de Agua "Inundación Repentina del Kappa"
 
 ja:水符「河童の幻想大瀑布」
 en:Water Sign "Kappa's Great Illusionary Waterfall"
+es:Signo de Agua "La Gran e Ilusoria Cascada del Kappa"
 
 ja:水符「ウォーターカーペット」
 en:Water Sign "Water Carpet"
+es:Signo de Agua "Alfombra de Agua"
 
 ja:水符「河童スプリンクラーα」
 en:Water Sign "Kappa Sprinkler α"
+es:Signo de Agua "Rociador Kappa α"
 
 ja:水符「河童スプリンクラーβ」
 en:Water Sign "Kappa Sprinkler β"
+es:Signo de Agua "Rociador Kappa β"
