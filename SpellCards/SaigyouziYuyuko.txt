@@ -4,7 +4,7 @@ es:Signo del Inframundo "Interminables Tardes de Cerezos Floridos"
 
 ja:符牒「バタフライコール」
 en:Symbol "Butterfly Call"
-es:Símbolo "Llamada de las Mariposas"
+es:Símbolo "Llamada a las Mariposas"
 
 ja:桜符「西行桜吹雪」
 en:Cherry Blossom Sign "Saigyou Cherry Blossom Blizzard"
