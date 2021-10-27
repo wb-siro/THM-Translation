@@ -1,8 +1,11 @@
 ja:銃符「ルナティックガン」
 en:Gun Sign "Lunatic Gun"
+es:Signo de Pistola "Pistola Lunática"
 
 ja:弾符「ラビットファルコナー」
 en:Bullet Sign "Rabbit Falconer"
+es:Signo de Bala "Conejo Halconero"
 
 ja:兎符「本気ぺったんこ」
 en:Rabbit Sign "Violent Pettanko"
+es:Signo de Conejo "Pettanko Violenta"
