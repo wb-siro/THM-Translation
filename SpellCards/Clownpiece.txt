@@ -1,0 +1,14 @@
+ja:獄符「カオスメリーゴーラウンド」
+en:Hell Sign "Chaos Merry-Go-Round"
+
+ja:「フェイクアポロ」
+en:"Fake Apollo"
+
+ja:「アポロ捏造説」
+en:"Apollo Hoax Theory"
+
+ja:獄符「ヘルエクリプス」
+en:Hell Sign "Hell Eclipse"
+
+ja:獄符「地獄の蝕」
+en:Hell Sign "Eclipse of Hell"
