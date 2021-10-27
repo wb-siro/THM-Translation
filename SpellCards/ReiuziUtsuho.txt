@@ -1,26 +1,35 @@
 ja:核熱「ニュークリアフュージョン」
 en:Atomic Fire "Nuclear Fusion"
+es:Fuego Atómico "Fusión Nuclear"
 
 ja:核熱「ニュークリアエクスカーション」
 en:Atomic Fire "Nuclear Excursion"
+es:Fuego Atómico "Excursión Nuclear"
 
 ja:核熱「核反応制御不能」
 en:Atomic Fire "Uncontainable Nuclear Reaction"
+es:Fuego Atómico "Reacción Nuclear Incontenible"
 
 ja:爆符「プチフレア」
 en:Explosion Sign "Petit Flare"
+es:Signo de Explosión "Pequeña Llamarada"
 
 ja:爆符「メガフレア」
 en:Explosion Sign "Mega Flare"
+es:Signo de Explosión "Mega Llamarada"
 
 ja:爆符「ギガフレア」
 en:Explosion Sign "Giga Flare"
+es:Signo de Explosión "Giga Llamarada"
 
 ja:爆符「ペタフレア」
 en:Explosion Sign "Peta Flare"
+es:Signo de Explosión "Peta Llamarada"
 
 ja:「地獄の人工太陽」
 en:"Hell's Artificial Sun"
+es:"Sol Artificial del Infierno"
 
 ja:「サブタレイニアンサン」
 en:"Subterranean Sun"
+es:"Sol Subterraneo"
