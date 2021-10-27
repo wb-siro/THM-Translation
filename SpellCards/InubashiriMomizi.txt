@@ -1,0 +1,11 @@
+ja:狗符「スウィートバイト」
+en:Dog Sign "Sweet Bite"
+
+ja:山窩「エクスペリーズカナン」
+en:Mountain Nomad "Expellee's Canaan"
+
+ja:狗符「妖山風陣」
+en:Dog Sign "Wind Formation of Youkai Mountain"
+
+ja:狗符「妖山風神」
+en:Dog Sign "Wind God of Youkai Mountain"
