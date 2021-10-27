@@ -20,4 +20,4 @@ es:Arte del Paraguas "Canciín del Paraguas"
 
 ja:妖楽「オープン・ザ・アンブレラ」
 en:Youraku "Open the Umbrella"
-es:Youraku "Abre el Paraguas"
+es:Youkai "Abre el Paraguas"
