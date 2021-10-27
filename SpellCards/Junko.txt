@@ -1,0 +1,14 @@
+ja:純符「ピュアリーバレットヘル」"
+en:Pure Sign "Purely Bullet Hell"
+
+ja:純符「純粋な弾幕地獄」
+en:Pure Sign "A Pristine Danmaku Hell"
+
+ja:「原始の神霊界」
+en:"Primordial Divine Spirit World"
+
+ja:「現代の神霊界」
+en:"Present-Day Divine Spirit World"
+
+ja:「終わりなき厭悪」
+en:"Endless Evil"
