@@ -1,0 +1,8 @@
+ja:銃符「ルナティックガン」
+en:Gun Sign "Lunatic Gun"
+
+ja:弾符「ラビットファルコナー」
+en:Bullet Sign "Rabbit Falconer"
+
+ja:兎符「本気ぺったんこ」
+en:Rabbit Sign "Violent Pettanko"
