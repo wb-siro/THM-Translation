@@ -1,0 +1,23 @@
+ja:冥符「常夜桜」
+en:Nether Sign "Endless Evening Cherry Blossoms"
+
+ja:符牒「バタフライコール」
+en:Symbol "Butterfly Call"
+
+ja:桜符「西行桜吹雪」
+en:Cherry Blossom Sign "Saigyou Cherry Blossom Blizzard"
+
+ja:桜符「桜吹雪地獄」
+en:Cherry Blossom Sign "Cherry Blossom Blizzard Hell"
+
+ja:「反魂蝶 -参分咲-」
+en:"Resurrection Butterfly -30% Reflowering-"
+
+ja:「反魂蝶 -伍分咲-」
+en:"Resurrection Butterfly -50% Reflowering-"
+
+ja:「反魂蝶 -八分咲-」
+en:"Resurrection Butterfly -80% Reflowering-"
+
+ja:「西行寺無余涅槃」
+en:"Saigyouji Parinirvana"
