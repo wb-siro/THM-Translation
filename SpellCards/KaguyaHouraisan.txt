@@ -1,2 +1,3 @@
 ja:「蓬莱の樹海」
 en:"Tree-Ocean of Hourai"
+es:"Arbol-Oceano de Hourai"
