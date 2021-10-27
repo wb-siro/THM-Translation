@@ -1,11 +1,15 @@
 ja:酔歩「キャットランダムウォーク」
 en:Drunkard's Walk "Cat Random Walk"
+es:Caminata del Borracho "Paseo Aleatorio del Gato"
 
 ja:妖怪「火焔の車輪」
 en:Youkai "Blazing Wheel"
+es:Youkai "Rueda Flameante"
 
 ja:恨霊「スプリーンイーター」
 en:Malicious Spirit "Spleen Eater"
+es:Espiritu Malicioso "Devoradora del Bazo"
 
 ja:屍霊「食人怨霊」
 en:Corpse Spirit "Vengeful Cannibal Spirit"
+es:Espíritu Cadavérico "Vengativo Espíritu Canibal"
