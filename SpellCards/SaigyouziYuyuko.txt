@@ -1,23 +1,31 @@
 ja:冥符「常夜桜」
 en:Nether Sign "Endless Evening Cherry Blossoms"
+es:Signo del Inframundo "Interminables Tardes de Cerezos Floridos"
 
 ja:符牒「バタフライコール」
 en:Symbol "Butterfly Call"
+es:Símbolo "Llamada de las Mariposas"
 
 ja:桜符「西行桜吹雪」
 en:Cherry Blossom Sign "Saigyou Cherry Blossom Blizzard"
+es:Signo de Cerezo Florido "Tormenta de Pétalos de Cerezo de Saigyouji"
 
 ja:桜符「桜吹雪地獄」
 en:Cherry Blossom Sign "Cherry Blossom Blizzard Hell"
+es:Signo de Cerezo Florido "Tormenta Infernal de Pétalos de Cerezo"
 
 ja:「反魂蝶 -参分咲-」
 en:"Resurrection Butterfly -30% Reflowering-"
+es:"Mariposa de Resurreción -Refloración al 30%-"
 
 ja:「反魂蝶 -伍分咲-」
 en:"Resurrection Butterfly -50% Reflowering-"
+es:"Mariposa de Resurreción -Refloración al 50%-"
 
 ja:「反魂蝶 -八分咲-」
 en:"Resurrection Butterfly -80% Reflowering-"
+es:"Mariposa de Resurreción -Refloración al 80%-"
 
 ja:「西行寺無余涅槃」
 en:"Saigyouji Parinirvana"
+es:"Parinirvana de Saigyouji"
