@@ -1,11 +1,15 @@
 ja:狗符「スウィートバイト」
 en:Dog Sign "Sweet Bite"
+es:Signo Perruno "Dulce Mordida"
 
 ja:山窩「エクスペリーズカナン」
 en:Mountain Nomad "Expellee's Canaan"
+es:Nómada de la Montaña "Expulsada de Canaán"
 
 ja:狗符「妖山風陣」
 en:Dog Sign "Wind Formation of Youkai Mountain"
+es:Signo Perruno "Formaciones Ventosas en la Montaña Youkai"
 
 ja:狗符「妖山風神」
 en:Dog Sign "Wind God of Youkai Mountain"
+es:Signo Perruno "Dios del Viento de la Montaña Youkai"
