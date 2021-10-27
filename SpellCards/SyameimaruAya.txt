@@ -1,0 +1,20 @@
+ja:岐符「天の八岐」// The correct name is "八衢", but the font doesn't support it, so I changed it to "八岐".
+en:Crossroad Sign "Crossroads of Heaven"
+
+ja:岐符「サルタクロス」
+en:Crossroad Sign "Saruta Cross"
+
+ja:塞符「山神渡御」
+en:Blockade Sign "Mountain God's Procession"
+
+ja:塞符「天孫降臨」
+en:Blockade Sign "Advent of the Divine Grandson"
+
+ja:塞符「天上天下の照國」
+en:Blockade Sign "Terukuni Shining Through Heaven and Earth"
+
+ja:「幻想風靡」
+en:"Illusionary Dominance"
+
+ja:「無双風神」
+en:"Peerless Wind God"
