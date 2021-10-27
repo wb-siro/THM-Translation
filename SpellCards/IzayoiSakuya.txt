@@ -1,0 +1,17 @@
+ja:奇術「ミスディレクション」
+en:Conjuring "Misdirection"
+
+ja:奇術「幻惑ミスディレクション」
+en:Conjuring "Mesmerizing Misdirection"
+
+ja:銀符「パーフェクトメイド」
+en:"Silver Sign "Perfect Maid"
+
+ja:メイド秘技「操りドール」
+en:Maid Secret Skill "Manipulating Doll"
+
+ja:メイド秘技「殺人ドール」
+en:Maid Secret Skill "Killing Doll"
+
+ja:幻符「ジョーカーワールド」
+en:Illusion Sign "Joker World"
