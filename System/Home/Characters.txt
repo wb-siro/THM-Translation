@@ -7,15 +7,15 @@ en:Remilia Scarlet
 es:Remilia Scarlet
 
 ja:星熊勇儀
-en:Hoshiguma Yugi
+en:Yuugi Hoshiguma
 es:Yuugi Hoshiguma
 
 ja:古明地こいし
-en:Komeiji Koishi
+en:Koishi Komeiji
 es:Koishi Komeiji
 
 ja:西行寺幽々子
-en:Saigyouzi Yuyuko
+en:Yuyuko Saigyouji
 es:Yuyuko Saigyouji
 
 ja:クラウンピース
