@@ -1,0 +1,48 @@
+ja:LOCKING // English is fine.
+en:LOCKING
+
+//////////////////////////////////////////////////
+// Screen to consume the spell card key.
+//////////////////////////////////////////////////
+
+ja:スペルカードキーを1つ消費します
+en:Consumes spell card key
+
+ja:スペルカードキーを3つ消費します
+en:Consumes 3 spell card keys
+
+ja:消費して開放
+en:Consume and open
+
+ja:キャンセル
+en:Cancel
+
+//////////////////////////////////////////////////
+// Screen to watch a commercial.
+//////////////////////////////////////////////////
+
+// Commercials are the same thing as advertisements.
+ja:CMを視聴して開放します
+en:Open when you watch the commercial
+
+ja:視聴する
+en:Watch now
+
+ja:キャンセル
+en:Cancel
+
+//////////////////////////////////////////////////
+// Failed to load commercial screen.
+//////////////////////////////////////////////////
+
+ja:CMを読み込めませんでした
+en:CM could not be loaded
+
+ja:CMの視聴に失敗しました
+en:Failed to watch commercial
+
+ja:広告の表示が制限されています
+en:Display of ads is restricted
+
+ja:閉じる
+en:Close
