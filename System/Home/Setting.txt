@@ -1,36 +1,63 @@
-ja:難易度
-en:Difficulty
+ja:プレイヤー名
+en:Player name
 
-ja:EASY
-en:EASY
+ja:※ネットワーク上に公開されます
+en:※Published on network
 
-ja:NORMAL
-en:NORMAL
+ja:スペルカードキー
+en:Spell Card Key
 
-ja:HARD
-en:HARD
+// Commercials are the same thing as advertisements.
+ja:CMを視聴して3本(+1本)入手
+en:Watch the commercial and get 3(+1) keys
 
-ja:LUNATIC
-en:LUNATIC
+ja:※テスト中の為、全てのステージを開放しています
+en:※All stages are open for testing
 
-ja:音量
-en:Volume
+ja:※テスト終了に伴い開放中のスペルカードを段階的にクローズします
+en:※Spell cards will be closed in stages as testing is completed
 
-ja:BGM
-en:BGM
+ja:※リリースキャンペーン中
+en:※Release campaign is underway
 
-ja:SE
-en:SE
+ja:不具合・要望報告
+en:Bug and request reports
 
-ja:入力感度
-en:Input sensitivity
+ja:※報告に対する個別の返答はありません
+en:※There will be no individual response to the report
 
-ja:ホームBGM
-en:Home BGM
+ja:送信
+en:Report
 
-ja:言語
-en:Language
+///////////////////////////////////////////////////
+// Message when the Report button is pressed
+///////////////////////////////////////////////////
 
-// Language List
-ja:日本語
-en:English
+// When there are no input fields.
+ja:文章を入力してください
+en:Please enter a sentence
+
+// When the try to send several times in a short period of time.
+ja:連続して送信できません。15分程度お待ち下さい
+en:Please wait about 15 minutes
+
+///////////////////////////////////////////////////
+// Transmission confirmation screen
+///////////////////////////////////////////////////
+ja:メッセージを送信しますか？
+en:Send message?
+
+ja:送信
+en:Yes
+
+ja:キャンセル
+en:No
+
+///////////////////////////////////////////////////
+// Message when sent report
+///////////////////////////////////////////////////
+ja:メッセージを送信しました
+en:Thank you for your message
+
+ja:メッセージの送信に失敗しました
+en:Failed to send message
