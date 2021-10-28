@@ -1,6 +1,6 @@
 ja:サーバーの接続に失敗しました
 en:Server connection failed
-es:Hubo un falló en la conexión al servidor
+es:Hubo un fallo en la conexión al servidor
 
 ja:サーバーメンテナンス中です
 en:Server under maintenance
