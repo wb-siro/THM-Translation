@@ -23,31 +23,31 @@ en:Clownpiece
 es:Clownpiece
 
 ja:多々良小傘
-en:Tatara Kogasa
+en:Kogasa Tatara
 es:Kogasa Tatara
 
 ja:十六夜咲夜
-en:Izayoi Sakuya
+en:Sakuya Izayoi
 es:Sakuya Izayoi
 
 ja:霊烏路空
-en:Reiuzi Utsuho
+en:Utsuho Reiuji
 es:Utsuho Reiuji
 
 ja:犬走椛
-en:Inubashiri Momizi
+en:Momiji Inubashiri
 es:Momiji Inubashiri
 
 ja:河城にとり
-en:Kawashiro Nitori
+en:Nitori Kawashiro
 es:Nitori Kawashiro
 
 ja:お燐(火焔猫燐)
-en:Orin(Kaenbyou Rin)
+en:Orin(Rin Kaenbyou)
 es:Orin(Rin Kaenbyou)
 
 ja:射命丸文
-en:Syameimaru Aya
+en:Aya Shameimaru
 es:Aya Shameimaru
 
 ja:清蘭
