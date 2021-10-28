@@ -1,0 +1,8 @@
+ja:サーバーの接続に失敗しました
+en:Server connection failed
+
+ja:サーバーメンテナンス中です
+en:Server under maintenance
+
+ja:ゲームをアップデートしてください
+en:Please update the game
