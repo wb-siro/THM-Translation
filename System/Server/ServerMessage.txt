@@ -6,3 +6,15 @@ en:Server under maintenance
 
 ja:ゲームをアップデートしてください
 en:Please update the game
+
+ja:ランキングの取得に失敗しました
+en:Failed to retrieve the ranking
+
+ja:ランキングの登録に失敗しました
+en:Failed to register the ranking
+
+ja:平均スコアの取得に失敗しました
+en:Failed to get average score
+
+ja:平均スコアの登録に失敗しました
+en:Failed to register average score
