@@ -1,47 +1,63 @@
 ja:チルノ
 en:Cirno
+es:Cirno
 
 ja:レミリア・スカーレット
 en:Remilia Scarlet
+es:Remilia Scarlet
 
 ja:星熊勇儀
 en:Hoshiguma Yugi
+es:Yuugi Hoshiguma
 
 ja:古明地こいし
 en:Komeiji Koishi
+es:Koishi Komeiji
 
 ja:西行寺幽々子
 en:Saigyouzi Yuyuko
+es:Yuyuko Saigyouji
 
 ja:クラウンピース
 en:Clownpiece
+es:Clownpiece
 
 ja:多々良小傘
 en:Tatara Kogasa
+es:Kogasa Tatara
 
 ja:十六夜咲夜
 en:Izayoi Sakuya
+es:Sakuya Izayoi
 
 ja:霊烏路空
 en:Reiuzi Utsuho
+es:Utsuho Reiuji
 
 ja:犬走椛
 en:Inubashiri Momizi
+es:Momiji Inubashiri
 
 ja:河城にとり
 en:Kawashiro Nitori
+es:Nitori Kawashiro
 
 ja:お燐(火焔猫燐)
 en:Orin(Kaenbyou Rin)
+es:Orin(Rin Kaenbyou)
 
 ja:射命丸文
 en:Syameimaru Aya
+es:Aya Shameimaru
 
 ja:清蘭
 en:Seiran
+es:Seiran
 
 ja:純狐
 en:Junko
+es:Junko
 
 ja:蓬莱山輝夜
 en:Kaguya Houraisan
+es:Kaguya Houraisan
