@@ -1,0 +1,8 @@
+ja:基本設定
+en:Setting
+
+ja:通信設定
+en:Network
+
+ja:ランキング
+en:Ranking
