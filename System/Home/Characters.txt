@@ -1,0 +1,47 @@
+ja:チルノ
+en:Cirno
+
+ja:レミリア・スカーレット
+en:Remilia Scarlet
+
+ja:星熊勇儀
+en:Hoshiguma Yugi
+
+ja:古明地こいし
+en:Komeiji Koishi
+
+ja:西行寺幽々子
+en:Saigyouzi Yuyuko
+
+ja:クラウンピース
+en:Clownpiece
+
+ja:多々良小傘
+en:Tatara Kogasa
+
+ja:十六夜咲夜
+en:Izayoi Sakuya
+
+ja:霊烏路空
+en:Reiuzi Utsuho
+
+ja:犬走椛
+en:Inubashiri Momizi
+
+ja:河城にとり
+en:Kawashiro Nitori
+
+ja:お燐(火焔猫燐)
+en:Orin(Kaenbyou Rin)
+
+ja:射命丸文
+en:Syameimaru Aya
+
+ja:清蘭
+en:Seiran
+
+ja:純狐
+en:Junko
+
+ja:蓬莱山輝夜
+en:Kaguya Houraisan
