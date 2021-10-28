@@ -1,36 +1,48 @@
 ja:難易度
 en:Difficulty
+es:Dificultad
 
 ja:EASY
 en:EASY
+es:FÁCIL
 
 ja:NORMAL
 en:NORMAL
+es:NORMAL
 
 ja:HARD
 en:HARD
+es:DIFÍCIL
 
 ja:LUNATIC
 en:LUNATIC
+es:LUNATICO
 
 ja:音量
 en:Volume
+es:Volumen
 
 ja:BGM
 en:BGM
+es:Música
 
 ja:SE
 en:SE
+es:Sonidos
 
 ja:入力感度
 en:Input sensitivity
+es:Sensitividad
 
 ja:ホームBGM
 en:Home BGM
+es:Música del Menú
 
 ja:言語
 en:Language
+es:Lenguaje
 
 // Language List
 ja:日本語
 en:English
+es:Español
