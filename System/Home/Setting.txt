@@ -1,33 +1,43 @@
 ja:プレイヤー名
 en:Player name
+es:Nombre del Jugador
 
 ja:※ネットワーク上に公開されます
 en:※Published on network
+es:※Publicado en la red
 
 ja:スペルカードキー
 en:Spell Card Key
+es:Llaves para SpellCards
 
 // Commercials are the same thing as advertisements.
 ja:CMを視聴して3本(+1本)入手
 en:Watch the commercial and get 3(+1) keys
+es:Mira un comercial y obtén 3(+1) llaves
 
 ja:※テスト中の為、全てのステージを開放しています
 en:※All stages are open for testing
+es:※Todas las etapas están abiertas para ser probadas
 
 ja:※テスト終了に伴い開放中のスペルカードを段階的にクローズします
 en:※Spell cards will be closed in stages as testing is completed
+es:※Las SpellCards van a ir siendo cerradas a medida que se completen las pruebas
 
 ja:※リリースキャンペーン中
 en:※Release campaign is underway
+es:※El lanzamiento de la campaña está en camino
 
 ja:不具合・要望報告
 en:Bug and request reports
+es:Solicitudes e informes de errores
 
 ja:※報告に対する個別の返答はありません
 en:※There will be no individual response to the report
+es:※No va a haber respuestas individuales a los informes
 
 ja:送信
 en:Report
+es:Informe
 
 ///////////////////////////////////////////////////
 // Message when the Report button is pressed
@@ -36,28 +46,35 @@ en:Report
 // When there are no input fields.
 ja:文章を入力してください
 en:Please enter a sentence
+es:Por favor, ingresa texto
 
 // When the try to send several times in a short period of time.
 ja:連続して送信できません。15分程度お待ち下さい
 en:Please wait about 15 minutes
+es:Estás enviando demasiados informes, por favor espera ~15 minutos
 
 ///////////////////////////////////////////////////
 // Transmission confirmation screen
 ///////////////////////////////////////////////////
 ja:メッセージを送信しますか？
 en:Send message?
+es:Enviar mensaje?
 
 ja:送信
 en:Yes
+es:Si
 
 ja:キャンセル
 en:No
+es:No
 
 ///////////////////////////////////////////////////
 // Message when sent report
 ///////////////////////////////////////////////////
 ja:メッセージを送信しました
 en:Thank you for your message
+es:Muchas gracias por enviar este informe!
 
 ja:メッセージの送信に失敗しました
 en:Failed to send message
+es:Ocurrió algún error, el mensaje no pudo ser enviado
