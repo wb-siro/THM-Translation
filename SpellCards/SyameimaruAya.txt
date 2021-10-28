@@ -16,9 +16,12 @@ es:Signo de Bloqueo "Venida del Nieto Divino"
 
 ja:塞符「天上天下の照國」
 en:Blockade Sign "Terukuni Shining Through Heaven and Earth"
+es:Signo de Bloqueo "Terukuni Brillando a través del Cielo y la Tierra"
 
 ja:「幻想風靡」
 en:"Illusionary Dominance"
+es:"Dominancia Ilusoria"
 
 ja:「無双風神」
 en:"Peerless Wind God"
+es:"Diosa del Viento Sin Igual"
