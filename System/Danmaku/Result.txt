@@ -1,0 +1,25 @@
+ja:フレーム数
+en:Frame
+
+// Frame units
+ja:F
+en:F
+
+ja:実時間
+en:Real Time
+
+// Time units(second)
+ja:秒
+en:s
+
+ja:グレイズ数
+en:Graze
+
+ja:ボス残HP
+en:Boss Life
+
+ja:スコア
+en:Score
+
+ja:NEW RECORD !! // English is fine.
+en:NEW RECORD !!
