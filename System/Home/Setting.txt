@@ -1,0 +1,36 @@
+ja:難易度
+en:Difficulty
+
+ja:EASY
+en:EASY
+
+ja:NORMAL
+en:NORMAL
+
+ja:HARD
+en:HARD
+
+ja:LUNATIC
+en:LUNATIC
+
+ja:音量
+en:Volume
+
+ja:BGM
+en:BGM
+
+ja:SE
+en:SE
+
+ja:入力感度
+en:Input sensitivity
+
+ja:ホームBGM
+en:Home BGM
+
+ja:言語
+en:Language
+
+// Language List
+ja:日本語
+en:English
