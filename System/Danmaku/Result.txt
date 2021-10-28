@@ -1,25 +1,33 @@
 ja:フレーム数
 en:Frame
+es:Fotograma
 
 // Frame units
 ja:F
 en:F
+es:F
 
 ja:実時間
 en:Real Time
+es:Tiempo Real
 
 // Time units(second)
 ja:秒
 en:s
+es:s
 
 ja:グレイズ数
 en:Graze
+es:Roce
 
 ja:ボス残HP
 en:Boss Life
+es:Vida del Jefe
 
 ja:スコア
 en:Score
+es:Puntaje
 
 ja:NEW RECORD !! // English is fine.
 en:NEW RECORD !!
+es:NUEVO RECORD !!
