@@ -1,7 +1,7 @@
-ja:ステージをランダム選択
-en:Random selection
-
 // @@@ will be the name of the character.
 // * will be a number.
 ja:VS @@@ *番勝負
 en:VS @@@ *Game Match
+
+ja:ステージをランダム選択
+en:Random selection
