@@ -1,6 +1,6 @@
 ja:フレーム数
 en:Frame
-es:Fotograma
+es:Fotogramas
 
 // Frame units
 ja:F
@@ -18,11 +18,11 @@ es:s
 
 ja:グレイズ数
 en:Graze
-es:Roce
+es:Roces
 
 ja:ボス残HP
 en:Boss Life
-es:Vida del Jefe
+es:Vida restante del Jefe
 
 ja:スコア
 en:Score

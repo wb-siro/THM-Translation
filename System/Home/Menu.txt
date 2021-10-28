@@ -1,8 +1,11 @@
 ja:基本設定
 en:Setting
+es:Configuraciones
 
 ja:通信設定
 en:Network
+es:Internet
 
 ja:ランキング
 en:Ranking
+es:Ranking
