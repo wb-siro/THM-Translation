@@ -1,8 +1,9 @@
 ja:ワールドレコード
 en:World Records
+es:Records Mundiales
 
 // If the letters after the numbers are the same, Please write ...
 // If different, please separate them with ,
 ja:1位...
 en:1st,2nd,3rd,4th...
-
+es:1ro,2do,3ro,4to,5to,6to,7mo,8vo,9no,10mo //This is very irregular in Spanish. I'll add the rest later, as it keeps changing up until 100.
