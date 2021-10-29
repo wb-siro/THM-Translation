@@ -12,7 +12,7 @@ es:Noche de Hielo "Noche Helada"
 
 ja:氷貴「フロストジャック」
 en:Ice Jack "Frost Jack"
-es:Sota de Hielo "Sota Helada
+es:Sota de Hielo "Sota Helada"
 
 ja:氷妃「フロストクイーン」
 en:Ice Queen "Frost Queen"
