@@ -4,6 +4,9 @@ Thank you for your continued patronage.
 When translating, please add the language code and write the translated text.   
 There are no deadlines or quotas for translations! Thanks!  
 
+Translation instructions are on a separate page.  
+https://github.com/wb-siro/THM-Translation/discussions/5  
+
 ### Exampl:When adding an Arabic translation  
 ~~~
 ja:凍符「パーフェクトフリーズ」  
