@@ -1,3 +1,6 @@
 ja:「蓬莱の樹海」
 en:"Tree-Ocean of Hourai"
 es:"Arbol-Oceano de Hourai"
+
+ja:新難題「金閣寺の一枚天井」
+en:Recollection "Vague Recollection of Kinkaku-ji"
