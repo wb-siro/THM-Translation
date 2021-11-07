@@ -5,3 +5,6 @@ es:"Arbol-Oceano de Hourai"
 ja:新難題「金閣寺の一枚天井」
 en:Recollection "Vague Recollection of Kinkaku-ji"
 es:Recuerdo "Vagos Recuerdos de Kinkaku-ji"
+
+ja:新難題「アンオブタニウム」
+en:Recollection "Unobtainium"
