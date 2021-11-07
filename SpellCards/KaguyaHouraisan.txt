@@ -8,3 +8,4 @@ es:Recuerdo "Vagos Recuerdos de Kinkaku-ji"
 
 ja:新難題「アンオブタニウム」
 en:Recollection "Unobtainium"
+es:Recuerdo "Unobtanium"
