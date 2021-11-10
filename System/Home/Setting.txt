@@ -28,7 +28,7 @@ es:Música
 
 ja:SE
 en:SE
-es:Sonidos
+es:Sonido
 
 ja:入力感度
 en:Input sensitivity
@@ -49,8 +49,10 @@ es:Español
 
 ja:翻訳について
 en:About translation
+es:Acerca de la traducción
 
 ja:文章の翻訳はありません。また、全ての翻訳が完了していない場合があります
 en:There is no translation of the text. Also, not all translations may have been completed.
+es:No hay traducción del texto. Además, puede ser que las traducciones no estén completas/correctas.
 
 
