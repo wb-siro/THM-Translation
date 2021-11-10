@@ -44,7 +44,7 @@ es:Nitori Kawashiro
 
 ja:お燐(火焔猫燐)
 en:Orin(Rin Kaenbyou)
-es:Orin(Rin Kaenbyou)
+es:Orin (Rin Kaenbyou)
 
 ja:射命丸文
 en:Aya Shameimaru
@@ -64,3 +64,4 @@ es:Kaguya Houraisan
 
 ja:鈴仙・Ｕ・イナバ(鈴仙・優曇華院・イナバ)
 en:Reisen U. Inaba(Reisen Udongein Inaba)
+es:Reisen U. Inaba (Reisen Udongein Inaba)
