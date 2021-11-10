@@ -61,3 +61,6 @@ es:Junko
 ja:蓬莱山輝夜
 en:Kaguya Houraisan
 es:Kaguya Houraisan
+
+ja:鈴仙・Ｕ・イナバ(鈴仙・優曇華院・イナバ)
+en:Reisen U. Inaba(Reisen Udongein Inaba)
