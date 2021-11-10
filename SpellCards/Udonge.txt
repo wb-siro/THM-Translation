@@ -1,5 +1,7 @@
 ja:波符「赤眼催眠(マインドシェイカー)」
 en:Wave Sign "Mind Shaker(Red-Eyed Hypnosis)"
+es:Signo de Onda "Agitador Mental (Hipnosis de Ojos Rojos)"
 
 ja:幻波「赤眼催眠(マインドブローイング)」
 en:Illusion Wave "Mind Blowing(Red-Eyed Hypnosis)"
+es:Onda Ilusoria "Explosion Mental (Hipnosis de Ojos Rojos)"
