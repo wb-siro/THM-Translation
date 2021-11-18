@@ -8,3 +8,4 @@ es:Onda Ilusoria "Explosion Mental (Hipnosis de Ojos Rojos)"
 
 ja:幻朧月睨(ルナティックレッドアイズ)
 en:Lunatic Red Eyes "Stare of the Hazy Phantom Moon"
+es:Lunáticos Ojos Rojos "Mirada de la Nebulosa Luna Fantasmal"
