@@ -40,5 +40,3 @@ zh:Chinese
 ~~~
 # 
 In-game text for the Touhou secondary game "Touhou Maroku".
-
-
