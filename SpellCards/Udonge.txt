@@ -12,4 +12,4 @@ es:Lunáticos Ojos Rojos (Mirada de la Nebulosa Luna Fantasmal)
 
 ja:幻兎「月輪死弾(ルナティックルーレット)」
 en:Illusion Rabbit "Lunatic Roulette (Moon Death Bullet)"
-es:Conejo Ilusorio "Ruleta Lunática (Bala mortal lunar)".
+es:Conejo Ilusorio "Ruleta Lunática (Mortal bala lunar)".
