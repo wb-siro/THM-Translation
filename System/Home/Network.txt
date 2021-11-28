@@ -2,6 +2,9 @@ ja:プレイヤー名
 en:Player name
 es:Nombre del Jugador
 
+ja:アイコン
+en:Icon
+
 ja:※ネットワーク上に公開されます
 en:※Published on network
 es:※Publicado en la red
