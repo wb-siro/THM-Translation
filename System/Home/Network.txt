@@ -4,6 +4,7 @@ es:Nombre del Jugador
 
 ja:アイコン
 en:Icon
+es:Ícono
 
 ja:※ネットワーク上に公開されます
 en:※Published on network
