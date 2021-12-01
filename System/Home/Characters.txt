@@ -65,3 +65,9 @@ es:Kaguya Houraisan
 ja:鈴仙・Ｕ・イナバ(鈴仙・優曇華院・イナバ)
 en:Reisen U. Inaba(Reisen Udongein Inaba)
 es:Reisen U. Inaba (Reisen Udongein Inaba)
+
+ja:洩矢諏訪子
+en:Suwako Moriya
+
+ja:博麗霊夢
+en:Reimu Hakurei
