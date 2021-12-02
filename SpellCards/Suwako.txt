@@ -1,3 +1,7 @@
 ja:土着神「ケロちゃん風雨に負けず」
 en:Native God "Froggy Braves the Wind and Rain"
 es:Dios Nativo "Ranita Enfrenta Viento y Lluvia"
+
+ja:蛙符「血塗られた赤蛙塚」
+en:Frog Sign "Bloody Mound of Red Frogs"
+
