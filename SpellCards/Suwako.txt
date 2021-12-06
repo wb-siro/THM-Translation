@@ -4,4 +4,5 @@ es:Dios Nativo "Ranita Enfrenta Viento y Lluvia"
 
 ja:蛙符「血塗られた赤蛙塚」
 en:Frog Sign "Bloody Mound of Red Frogs"
+es:Signo de Rana "Sangriento Montículo de Ranas Rojas"
 
