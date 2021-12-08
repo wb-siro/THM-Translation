@@ -8,3 +8,4 @@ es:Signo de Rana "Sangriento Montículo de Ranas Rojas"
 
 ja:奇石「河中の亀石」
 en:Strange Stone "Turtle Stone of River"
+es:Extraña Piedra "Roca Tortuga del Río"
