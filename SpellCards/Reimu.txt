@@ -1,3 +1,9 @@
 ja:夢符「封魔陣」
 en:Dream Sign "Evil-Sealing Circle"
 es:Signo Ensueño "Circulo Sella-Maldad"
+
+ja:神技「八方鬼縛陣」
+en:Divine Arts "Omnidirectional Oni-Binding Circle"
+
+ja:神技「八方龍殺陣」
+en:Divine Arts "Omnidirectional Dragon-Slaying Circle"
