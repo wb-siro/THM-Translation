@@ -4,6 +4,8 @@ es:Signo Ensueño "Circulo Sella-Maldad"
 
 ja:神技「八方鬼縛陣」
 en:Divine Arts "Omnidirectional Oni-Binding Circle"
+es:Artes Divinas "Círculo Omnidireccional Atrapa-Demonios"
 
 ja:神技「八方龍殺陣」
 en:Divine Arts "Omnidirectional Dragon-Slaying Circle"
+es:Artes Divinas "Círculo Omnidireccional Asesina-Dragones"
