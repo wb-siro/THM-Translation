@@ -1,6 +1,3 @@
-ja:難易度選択
-en:Difficulty selection
-
 ja:EASY
 en:EASY
 es:FÁCIL
