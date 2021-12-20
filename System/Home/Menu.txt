@@ -1,11 +1,14 @@
 ja:設定
 en:Setting
+es:Ajustes
 
 ja:Game Start // English is Fine
 en:Game Start
+es:Empezar el Juego
 
 ja:Unlock // English is Fine
 en:Unlock
+es:Desbloquear
 
 ja:ランキング
 en:Ranking
