@@ -1,23 +1,38 @@
-ja:戻る
-en:Back
+ja:EASY
+en:EASY
+es:FÁCIL
 
-ja:難易度
-en:Difficulty
-es:Dificultad
+ja:NORMAL
+en:NORMAL
+es:NORMAL
 
-ja:プレイヤー
-en:Player
+ja:HARD
+en:HARD
+es:DIFÍCIL
 
-ja:操作
-en:Operation
+ja:LUNATIC
+en:LUNATIC
+es:LUNÁTICO
 
-ja:言語
-en:Language
-es:Lenguaje
+// EASY explanatory note (2 lines)
+ja:弾幕シューティングゲームが初めての方や
+ja:夢見心地で遊びたい人向け
+en:For those who are new to bullet-hell shooters 
+en:and want to play in a dreamy atmosphere.
 
-ja:スペルカードキー
-en:Spell Card Key
-es:Llaves para SpellCards
+// NORAML explanatory note (2 lines)
+ja:ある程度の経験者向け
+ja:うたた寝してると足元をすくわれるかもしれません
+en:For experienced players. 
+en:You may be in danger if you are napping.
 
-ja:不具合・要望
-en:Reports
+// HARD explanatory note (2 lines)
+ja:しっかりとした難易度で遊びたい人向け
+ja:寝ている暇は殆どありません
+en:For expert players. 
+en:There is little time to sleep.
+
+// LUNATIC explanatory note
+ja:悪夢
+en:Nightmares.
+
