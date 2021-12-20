@@ -13,13 +13,3 @@ es:Desbloquear
 ja:ランキング
 en:Ranking
 es:Ranking
-
-// Moved to the Settings section
-// ja:基本設定
-// en:Setting
-// es:Ajustes
-
-// Moved to the Settings section
-// ja:通信設定
-// en:Network
-// es:Red
