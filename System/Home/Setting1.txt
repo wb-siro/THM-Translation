@@ -1,58 +1,23 @@
+ja:戻る
+en:Back
+
 ja:難易度
 en:Difficulty
 es:Dificultad
 
-ja:EASY
-en:EASY
-es:FÁCIL
+ja:プレイヤー
+en:Player
 
-ja:NORMAL
-en:NORMAL
-es:NORMAL
-
-ja:HARD
-en:HARD
-es:DIFÍCIL
-
-ja:LUNATIC
-en:LUNATIC
-es:LUNÁTICO
-
-ja:音量
-en:Volume
-es:Volumen
-
-ja:BGM
-en:BGM
-es:Música
-
-ja:SE
-en:SE
-es:Sonido
-
-ja:入力感度
-en:Input sensitivity
-es:Sensibilidad de Movimiento
-
-ja:ホームBGM
-en:Home BGM
-es:Música del menú
+ja:操作
+en:Operation
 
 ja:言語
 en:Language
 es:Lenguaje
 
-// Language List
-ja:日本語
-en:English
-es:Español
+ja:スペルカードキー
+en:Spell Card Key
+es:Llaves para SpellCards
 
-ja:翻訳について
-en:About translation
-es:Acerca de la traducción
-
-ja:文章の翻訳はありません。また、全ての翻訳が完了していない場合があります
-en:There is no translation of the text. Also, not all translations may have been completed.
-es:No hay traducción del texto. Además, puede ser que las traducciones no estén completas/correctas.
-
-
+ja:不具合・要望
+en:Reports
