@@ -1,11 +1,22 @@
-ja:基本設定
+ja:設定
 en:Setting
-es:Ajustes
 
-ja:通信設定
-en:Network
-es:Red
+ja:Game Start // English is Fine
+en:Game Start
+
+ja:Unlock // English is Fine
+en:Unlock
 
 ja:ランキング
 en:Ranking
 es:Ranking
+
+// Moved to the Settings section
+// ja:基本設定
+// en:Setting
+// es:Ajustes
+
+// Moved to the Settings section
+// ja:通信設定
+// en:Network
+// es:Red
