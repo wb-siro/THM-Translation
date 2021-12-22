@@ -9,3 +9,9 @@ es:Artes Divinas "Círculo Omnidireccional Atrapa-Demonios"
 ja:神技「八方龍殺陣」
 en:Divine Arts "Omnidirectional Dragon-Slaying Circle"
 es:Artes Divinas "Círculo Omnidireccional Asesina-Dragones"
+
+ja:夢符「二重結界」
+en:Dream Sign "Duplex Barrier"
+
+ja:夢境「二重大結界」
+en:Dream Land "Great Duplex Barrier"
