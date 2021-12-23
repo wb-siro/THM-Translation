@@ -12,6 +12,8 @@ es:Artes Divinas "Círculo Omnidireccional Asesina-Dragones"
 
 ja:夢符「二重結界」
 en:Dream Sign "Duplex Barrier"
+es:Signo Ensueño "Barrera Duplex"
 
 ja:夢境「二重大結界」
 en:Dream Land "Great Duplex Barrier"
+es:Tierra de Ensueño "Gran Barrera Duplex"
