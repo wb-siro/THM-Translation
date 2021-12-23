@@ -1,5 +1,6 @@
 ja:難易度選択
 en:Difficulty selection
+es:Selección de Dificultad
 
 ja:EASY
 en:EASY
@@ -22,20 +23,27 @@ ja:弾幕シューティングゲームが初めての方や
 ja:夢見心地で遊びたい人向け
 en:For those who are new to bullet-hell shooters 
 en:and want to play in a dreamy atmosphere.
+es:Para aquellos jugadores introduciendose al juego,
+es:y los que quieran jugar en una atmósfera de ensueño.
 
 // NORAML explanatory note (2 lines)
 ja:ある程度の経験者向け
 ja:うたた寝してると足元をすくわれるかもしれません
 en:For experienced players. 
 en:You may be in danger if you are napping.
+es:Para jugadores con experiencia.
+es:Podrías estar en peligro, de tener sueño.
 
 // HARD explanatory note (2 lines)
 ja:しっかりとした難易度で遊びたい人向け
 ja:寝ている暇は殆どありません
 en:For expert players. 
 en:There is little time to sleep.
+es:Para jugadores expertos.
+es:A menos que estes totalmente despierto...
 
 // LUNATIC explanatory note
 ja:悪夢
 en:Nightmares.
+es:Pesadillas.
 
