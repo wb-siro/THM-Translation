@@ -20,3 +20,4 @@ es:Tierra de Ensueño "Gran Barrera Duplex"
 
 ja:「夢想天生」
 en:"Fantasy Nature"
+es:"Fantasía Natural"
