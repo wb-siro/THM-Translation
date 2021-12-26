@@ -17,3 +17,6 @@ es:Signo Ensueño "Barrera Duplex"
 ja:夢境「二重大結界」
 en:Dream Land "Great Duplex Barrier"
 es:Tierra de Ensueño "Gran Barrera Duplex"
+
+ja:「夢想天生」
+en:"Fantasy Nature"
