@@ -8,6 +8,7 @@
 
 ja:東方魔導禄
 en:Touhou Madouroku
+es:Touhou Madouroku
 
 //////////////////////////////////////////////////
 // Short description of the game
@@ -15,6 +16,7 @@ en:Touhou Madouroku
 
 ja:"霧雨魔理沙" が様々な弾幕に挑む、東方二次創作ゲーム！
 en:"Marisa Kirisame" tries various danmaku. Touhou fangames!
+es:Marisa Kirisame se embarca en una aventura danmaku. Fangames de Touhou!
 
 //////////////////////////////////////////////////
 // Operation Description (2 lines)
@@ -24,6 +26,8 @@ ja:操作方法はスライドのみ！
 ja:迫りくる弾幕を華麗に避けよう！
 en:The only control method is sliding!
 en:Avoid the oncoming barrage with flair!
+es:La única forma de control es moverse!
+es:Evita el bombardeo inminente con estilo!
 
 //////////////////////////////////////////////////
 // Notes on the game
@@ -31,6 +35,7 @@ en:Avoid the oncoming barrage with flair!
 
 ja:このゲームについて
 en:About this game
+es:Acerca del juego
 
 // (3 lines)
 ja:このゲームは上海アリス幻樂団『東方Project』の二次創作です。
@@ -39,12 +44,18 @@ ja:登場するキャラクターや世界観、設定などは原作と異な�
 en:This game is a secondary work of the Touhou Project by 上海アリス幻樂団.
 en:All the materials used in the game are free materials.
 en:The characters, the world, and the setting may differ from the original.
+es:Este juego es un trabajo secundario de Touhou Project, por 上海アリス幻樂団.
+es:Todos los materiales usados en este juego son gratis.
+es:Los personajes, el mundo, y los escenarios pueden diferir de lo original.
 
 ja:プレイ動画・スクリーンショットに関して
 en:Play videos and screenshots
+es:Videos y capturas de pantalla
 
 // (2 lines) ※The parts written in Japanese can be translated or left as is.
 ja:上海アリス幻樂団が公開している『動画配信サービスへの投稿に関するガイドライン』で許可されている範囲であれば、報告等の必要なく利用可能です。
 ja:その他に関しては『東方Projectの二次創作ガイドライン』に準拠します。
 en:You can use the videos and screenshots as long as they are within the scope of the "動画配信サービスへの投稿に関するガイドライン" published by 上海アリス幻樂団. 
 en:As for the rest, please follow the "東方Projectの二次創作ガイドライン".
+es:Se pueden usar videos y capturas de pantalla, siempre y cuando estén dentro del margen de "動画配信サービスへの投稿に関するガイドライン", publicado por 上海アリス幻樂団.
+es:En cuanto al resto, por favor seguir a "東方Projectの二次創作ガイドライン".
