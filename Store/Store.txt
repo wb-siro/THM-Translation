@@ -1,0 +1,50 @@
+//--------------------------------------------------//
+// Text displayed in the Google and Apple app stores
+//--------------------------------------------------//
+
+//////////////////////////////////////////////////
+// Game Title 
+//////////////////////////////////////////////////
+
+ja:東方魔導禄
+en:Touhou Madouroku
+
+//////////////////////////////////////////////////
+// Short description of the game
+//////////////////////////////////////////////////
+
+ja:"霧雨魔理沙" が様々な弾幕に挑む、東方二次創作ゲーム！
+en:"Marisa Kirisame" tries various danmaku. Touhou fangames!
+
+//////////////////////////////////////////////////
+// Operation Description (2 lines)
+//////////////////////////////////////////////////
+
+ja:操作方法はスライドのみ！
+ja:迫りくる弾幕を華麗に避けよう！
+en:The only control method is sliding!
+en:Avoid the oncoming barrage with flair!
+
+//////////////////////////////////////////////////
+// Notes on the game
+//////////////////////////////////////////////////
+
+ja:このゲームについて
+en:About this game
+
+// (3 lines)
+ja:このゲームは上海アリス幻樂団『東方Project』の二次創作です。
+ja:ゲームに使用している東方素材はすべてフリー素材を使用しています。
+ja:登場するキャラクターや世界観、設定などは原作と異なる場合があります。
+en:This game is a secondary work of the Touhou Project by 上海アリス幻樂団.
+en:All the materials used in the game are free materials.
+en:The characters, the world, and the setting may differ from the original.
+
+ja:プレイ動画・スクリーンショットに関して
+en:Play videos and screenshots
+
+// (2 lines) ※The parts written in Japanese can be translated or left as is.
+ja:上海アリス幻樂団が公開している『動画配信サービスへの投稿に関するガイドライン』で許可されている範囲であれば、報告等の必要なく利用可能です。
+ja:その他に関しては『東方Projectの二次創作ガイドライン』に準拠します。
+en:You can use the videos and screenshots as long as they are within the scope of the "動画配信サービスへの投稿に関するガイドライン" published by 上海アリス幻樂団. 
+en:As for the rest, please follow the "東方Projectの二次創作ガイドライン".
