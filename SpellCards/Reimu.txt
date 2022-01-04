@@ -21,3 +21,9 @@ es:Tierra de Ensueño "Gran Barrera Duplex"
 ja:「夢想天生」
 en:"Fantasy Nature"
 es:"Fantasía Natural"
+
+ja:霊符「夢想封印　密」
+en:Spirit Sign "Fantasy Seal -Density-"
+
+ja:鏡符「夢想封印　唄」
+en:Mirror Sign "Fantasy Seal -Sound-"
