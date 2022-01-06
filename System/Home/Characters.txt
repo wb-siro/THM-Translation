@@ -73,3 +73,6 @@ es:Suwako Moriya
 ja:博麗霊夢
 en:Reimu Hakurei
 es:Reimu Hakurei
+
+ja:ナズーリン
+en:Nazrin
