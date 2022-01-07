@@ -13,19 +13,3 @@ es:Sonido
 ja:入力感度
 en:Input sensitivity
 es:Sensibilidad de Movimiento
-
-ja:ホーム解像度
-en:Home Resolution
-es:Resolución
-
-ja:固定
-en:Fixed
-es:Fija
-
-ja:自動
-en:Auto
-es:Automática
-
-ja:ホームBGM
-en:Home BGM
-es:Música del menú
