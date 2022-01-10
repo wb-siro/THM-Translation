@@ -16,6 +16,7 @@ es:Operación
 
 ja:ホーム
 en:Home
+es:Inicio
 
 ja:言語
 en:Language
