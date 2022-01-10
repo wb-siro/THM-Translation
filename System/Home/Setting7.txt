@@ -20,8 +20,8 @@ es:Orden de SpellCards
 
 ja:新しい順
 en:Newest
-es:Nuevas
+es:Nuevo
 
 ja:作品順
 en:Work
-es:Canónicas
+es:Canónico
