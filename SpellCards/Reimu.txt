@@ -24,6 +24,8 @@ es:"Fantasía Natural"
 
 ja:霊符「夢想封印　密」
 en:Spirit Sign "Fantasy Seal -Density-"
+es:Signo Espiritual "Sello Fantástico -Densidad-"
 
 ja:鏡符「夢想封印　唄」
 en:Mirror Sign "Fantasy Seal -Sound-"
+es:Signo Espejo "Sello Fantástico -Sonido-"
