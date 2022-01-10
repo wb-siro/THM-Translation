@@ -16,9 +16,12 @@ es:Música del menú
 
 ja:スペルカードのソート
 en:Sorting spell cards
+es:Orden de SpellCards
 
 ja:新しい順
 en:Newest
+es:Nuevas
 
 ja:作品順
 en:Work
+es:Canónicas
