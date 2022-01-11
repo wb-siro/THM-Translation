@@ -4,4 +4,4 @@ es:Signo de Busqueda "Sistema de Nazvegación"
 
 ja:宝塔「グレイテストトレジャー」
 en:Jeweled Pagoda "Greatest Treasure"
-es:Pagoda Enjoyada "Tesoro Mayor"
+es:Pagoda Enjoyada "Grandioso Tesoro"
