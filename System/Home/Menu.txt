@@ -1,6 +1,6 @@
 ja:キャラクター
 en:Character
-
+es:Personaje
 
 ja:設定
 en:Setting
