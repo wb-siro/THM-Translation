@@ -1,3 +1,7 @@
+ja:キャラクター
+en:Character
+
+
 ja:設定
 en:Setting
 es:Ajustes
