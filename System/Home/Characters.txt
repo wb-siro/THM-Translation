@@ -76,3 +76,6 @@ es:Reimu Hakurei
 
 ja:ナズーリン
 en:Nazrin
+
+ja:霧雨魔理沙
+en:Marisa Kirisame
