@@ -2,6 +2,10 @@ ja:キャラクター
 en:Character
 es:Personaje
 
+ja:スペルカードキー
+en:Spell Card Key
+es:Llaves para SpellCards
+
 ja:設定
 en:Setting
 es:Ajustes
