@@ -6,6 +6,11 @@ ja:スペルカードキー
 en:Spell Card Key
 es:Llaves para SpellCards
 
+// Commercials are the same thing as advertisements.
+ja:CMを視聴してスペルカードキーを3本入手
+en:Watch the commercial and get 3keys
+es:Mira un comercial y obtén 3llaves
+
 ja:設定
 en:Setting
 es:Ajustes
