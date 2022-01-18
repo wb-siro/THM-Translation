@@ -1,0 +1,27 @@
+ja:ホーム解像度
+en:Home Resolution
+es:Resolución
+
+ja:固定
+en:Fixed
+es:Fija
+
+ja:自動
+en:Auto
+es:Automática
+
+ja:ホームBGM
+en:Home BGM
+es:Música del menú
+
+ja:スペルカードのソート
+en:Sorting spell cards
+es:Orden de SpellCards
+
+ja:新しい順
+en:Newest
+es:Nuevo
+
+ja:作品順
+en:Work
+es:Canónico

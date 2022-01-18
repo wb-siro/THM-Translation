@@ -1,0 +1,7 @@
+ja:捜符「ナズゲーションシステム」// coined word (Nazrin + Navigation)
+en:Search Sign "Nazgation System"
+es:Signo de Busqueda "Sistema de Nazvegación"
+
+ja:宝塔「グレイテストトレジャー」
+en:Jeweled Pagoda "Greatest Treasure"
+es:Pagoda Enjoyada "Grandioso Tesoro"

@@ -2,6 +2,10 @@ ja:キャラクター
 en:Character
 es:Personaje
 
+ja:キャラクター選択
+en:Character Select
+es:Selección de Personaje
+
 ja:スペルカードキー
 en:Spell Card Key
 es:Llaves para SpellCards
@@ -22,15 +26,3 @@ es:Cancelar
 ja:設定
 en:Setting
 es:Ajustes
-
-ja:Game Start // English is Fine
-en:Game Start
-es:Comenzar la Partida
-
-ja:Unlock // English is Fine
-en:Unlock
-es:Desbloquear
-
-ja:ランキング
-en:Ranking
-es:Ranking
