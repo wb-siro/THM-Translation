@@ -11,6 +11,14 @@ ja:CMを視聴してスペルカードキーを3本入手
 en:Watch the commercial and get 3keys
 es:Mira un comercial y obtén 3llaves
 
+ja:視聴する
+en:Watch now
+es:Mirar ahora
+
+ja:キャンセル
+en:Cancel
+es:Cancelar
+
 ja:設定
 en:Setting
 es:Ajustes
