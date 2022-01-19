@@ -8,3 +8,4 @@ es:Pagoda Enjoyada "Grandioso Tesoro"
 
 ja:棒符「ビジーロッド」
 en:Rod Sign "Busy Rod"
+es:Signo de vara "Vara Atareada"
