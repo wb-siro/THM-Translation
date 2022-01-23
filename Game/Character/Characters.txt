@@ -84,3 +84,4 @@ es:Marisa Kirisame
 
 ja:古明地さとり
 en:Satori Komeiji
+es:Satori Komeiji
