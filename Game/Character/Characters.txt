@@ -81,3 +81,6 @@ es:Nazrin
 ja:霧雨魔理沙
 en:Marisa Kirisame
 es:Marisa Kirisame
+
+ja:古明地さとり
+en:Satori Komeiji
