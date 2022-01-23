@@ -1,0 +1,5 @@
+ja:想起「テリブルスーヴニール」
+en:Recollection "Terrible Souvenir"
+
+ja:想起「恐怖催眠術」
+en:Recollection "Terrifying Hypnotism"
