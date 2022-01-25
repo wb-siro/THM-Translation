@@ -29,3 +29,4 @@ es:Ajustes
 
 ja:お知らせ
 en:Notice
+es:Aviso
