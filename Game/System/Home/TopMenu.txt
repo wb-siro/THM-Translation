@@ -26,3 +26,6 @@ es:Cancelar
 ja:設定
 en:Setting
 es:Ajustes
+
+ja:お知らせ
+en:Notice
