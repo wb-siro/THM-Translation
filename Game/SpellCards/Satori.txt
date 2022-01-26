@@ -5,3 +5,6 @@ es:Recuerdo "Terrible Souvenir"
 ja:想起「恐怖催眠術」
 en:Recollection "Terrifying Hypnotism"
 es:Recuerdo "Hipnotismo Espantoso"
+
+ja:脳符「ブレインフィンガープリント」
+en:Brain Sign "Brain Fingerprint"
