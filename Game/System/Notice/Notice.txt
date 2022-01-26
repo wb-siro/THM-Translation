@@ -1,0 +1,26 @@
+﻿
+// Title text
+ja:スコアリセットのお知らせ
+
+// Body text
+ja:開発担当の しろ です
+ja:東方魔導録をプレイしていただきありがとうございます！
+
+ja:1月下旬～2月上旬のアップデートにおいて、スコアに関連するゲーム内容の変更を予定しています
+ja:これにより端末内のスコア、サーバー上のランキングのリセットを行います
+ja:※挑戦回数、クリア回数は引き継ぎます
+
+ja:主な修正内容は以下になります
+ja:・一定数以上のグレイズにおいて、獲得スコアを大きく減少
+ja:・ナズーリンを除く番勝負ボスの難易度調整
+
+
+en:Notice of Score Reset
+
+en:Thank you for playing Touhou Madouroku!
+en:We plan to make changes to the score-related game content in an update in late January or early February.
+en:This will reset the score in the device and the ranking on the server.
+
+en:*The number of challenges and clears will be transferred.
+
+
