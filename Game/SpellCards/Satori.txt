@@ -11,4 +11,4 @@ en:Brain Sign "Brain Fingerprint"
 es:Signo Cerebral "Dactilograma de Cerebro"
 
 ja:実像「ハイパーファンタジア」
-en:Real Image "Hyper Fantasia"
+en:Real Image "Hyper Phantasia"
