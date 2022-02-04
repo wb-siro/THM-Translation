@@ -9,3 +9,6 @@ es:Recuerdo "Hipnotismo Espantoso"
 ja:脳符「ブレインフィンガープリント」
 en:Brain Sign "Brain Fingerprint"
 es:Signo Cerebral "Dactilograma de Cerebro"
+
+ja:実像「ハイパーファンタジア」
+en:Real Image "Hyper Fantasia"
