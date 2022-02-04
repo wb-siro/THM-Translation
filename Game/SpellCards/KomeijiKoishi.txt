@@ -13,3 +13,6 @@ es:Instinto "Liberación del Id"
 ja:復燃「恋の埋火」
 en:Rekindled "The Embers of Love"
 en:Reavivada "Las Ascuas del Amor"
+
+ja:虚像「ハイパーアファンタジア」
+en:Virtual Image "Hyper Aphantasia"
