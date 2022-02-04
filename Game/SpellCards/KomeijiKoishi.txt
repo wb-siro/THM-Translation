@@ -16,3 +16,4 @@ en:Reavivada "Las Ascuas del Amor"
 
 ja:虚像「ハイパーアファンタジア」
 en:Virtual Image "Hyper Aphantasia"
+es:Imagen Virtual "Hiper Afantasia"
