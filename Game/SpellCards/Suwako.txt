@@ -1,11 +1,14 @@
 ja:土着神「ケロちゃん風雨に負けず」
 en:Native God "Froggy Braves the Wind and Rain"
 es:Dios Nativo "Ranita Enfrenta Viento y Lluvia"
+zh:土著神「小小青蛙不输风雨」
 
 ja:蛙符「血塗られた赤蛙塚」
 en:Frog Sign "Bloody Mound of Red Frogs"
 es:Signo de Rana "Sangriento Montículo de Ranas Rojas"
+zh:蛙符「涂有鲜血的赤蛙塚」
 
 ja:奇石「河中の亀石」
 en:Strange Stone "Turtle Stone of River"
 es:Extraña Piedra "Roca Tortuga del Río"
+zh:奇石「河中的龟石」

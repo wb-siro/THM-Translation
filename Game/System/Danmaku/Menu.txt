@@ -5,10 +5,12 @@
 ja:もう一度挑む
 en:Try again
 es:Intentar de nuevo
+zh:再试一次
 
 ja:あきらめる
 en:Give up
 es:Rendirse
+zh:放弃
 
 ////////////////////////////////////////////////
 // When one win
@@ -17,10 +19,12 @@ es:Rendirse
 ja:もう一度遊ぶ
 en:Play again
 es:Jugar de nuevo
+zh:再玩一次
 
 ja:一覧に戻る
 en:Return to list
 es:Regresar a la lista
+zh:返回菜单
 
 ////////////////////////////////////////////////
 // When paused (not used in the game)
@@ -29,7 +33,9 @@ es:Regresar a la lista
 ja:始めから
 en:Restart
 es:Volver a empezar
+zh:重新开始
 
 ja:一覧に戻る
 en:Return to list
 es:Regresar a la lista
+zh:返回菜单

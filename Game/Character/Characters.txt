@@ -1,87 +1,109 @@
 ja:チルノ
 en:Cirno
 es:Cirno
+zh:琪露诺
 
 ja:レミリア・スカーレット
 en:Remilia Scarlet
 es:Remilia Scarlet
+zh:蕾米莉亚·斯卡蕾特
 
 ja:星熊勇儀
 en:Yuugi Hoshiguma
 es:Yuugi Hoshiguma
+zh:星熊勇仪
 
 ja:古明地こいし
 en:Koishi Komeiji
 es:Koishi Komeiji
+zh:古明地恋
 
 ja:西行寺幽々子
 en:Yuyuko Saigyouji
 es:Yuyuko Saigyouji
+zh:西行寺幽幽子
 
 ja:クラウンピース
 en:Clownpiece
 es:Clownpiece
+zh:克劳恩皮丝
 
 ja:多々良小傘
 en:Kogasa Tatara
 es:Kogasa Tatara
+zh:多多良小伞
 
 ja:十六夜咲夜
 en:Sakuya Izayoi
 es:Sakuya Izayoi
+zh:十六夜咲夜
 
 ja:霊烏路空
 en:Utsuho Reiuji
 es:Utsuho Reiuji
+zh:灵乌路空
 
 ja:犬走椛
 en:Momiji Inubashiri
 es:Momiji Inubashiri
+zh:犬走椛
 
 ja:河城にとり
 en:Nitori Kawashiro
 es:Nitori Kawashiro
+zh:河城荷取
 
 ja:お燐(火焔猫燐)
 en:Orin(Rin Kaenbyou)
 es:Orin (Rin Kaenbyou)
+zh:火焰猫燐
 
 ja:射命丸文
 en:Aya Shameimaru
 es:Aya Shameimaru
+zh:射命丸文
 
 ja:清蘭
 en:Seiran
 es:Seiran
+zh:清兰
 
 ja:純狐
 en:Junko
 es:Junko
+zh:纯狐
 
 ja:蓬莱山輝夜
 en:Kaguya Houraisan
 es:Kaguya Houraisan
+zh:蓬莱山辉夜
 
 ja:鈴仙・Ｕ・イナバ(鈴仙・優曇華院・イナバ)
 en:Reisen U. Inaba(Reisen Udongein Inaba)
 es:Reisen U. Inaba (Reisen Udongein Inaba)
+zh:铃仙·优昙华院·因幡
 
 ja:洩矢諏訪子
 en:Suwako Moriya
 es:Suwako Moriya
+zh:泄矢诹访子
 
 ja:博麗霊夢
 en:Reimu Hakurei
 es:Reimu Hakurei
+zh:博丽灵梦
 
 ja:ナズーリン
 en:Nazrin
 es:Nazrin
+zh:纳兹琳
 
 ja:霧雨魔理沙
 en:Marisa Kirisame
 es:Marisa Kirisame
+zh:雾雨魔理沙
 
 ja:古明地さとり
 en:Satori Komeiji
 es:Satori Komeiji
+zh:古明地觉

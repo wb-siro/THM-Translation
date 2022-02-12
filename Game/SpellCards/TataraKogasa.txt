@@ -1,23 +1,29 @@
 ja:大輪「からかさ後光」
 en:Large Ring "Umbrella Halo"
 es:Gran Anillo "Halo de Paraguas"
+zh:大轮「唐伞的光晕」
 
 ja:大輪「ハロウフォゴットンワールド」
 en:Large Ring "Hello Forgotten World"
 en:Gran Anillo "Hola Mundo Olvidado"
+zh:大轮「向被遗忘的世界问好」
 
 ja:傘符「パラソルスターシンフォニー」
 en:Umbrella Sign "Parasol Star Symphony"
 es:Signo de Paraguas "Sinfonía Estelar del Quitasol"
+zh:伞符「雨伞的星之交响」
 
 ja:傘符「パラソルスターメモリーズ」
 en:Umbrella Sign "Parasol Star Memories"
 es:Signo del Paraguas "Memorias Estelares del Quitasol"
+zh:伞符「雨伞的星之追忆」
 
 ja:傘芸「アンブレラソング」
 en:Umbrella Art "Umbrella Song"
 es:Arte del Paraguas "Canciín del Paraguas"
+zh:伞符「雨伞的星之追忆」
 
 ja:妖楽「オープン・ザ・アンブレラ」
 en:Youraku "Open the Umbrella"
 es:Youkai "Abre el Paraguas"
+zh:妖乐「打开雨伞」

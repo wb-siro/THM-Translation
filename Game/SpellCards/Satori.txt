@@ -1,14 +1,17 @@
 ja:想起「テリブルスーヴニール」
 en:Recollection "Terrible Souvenir"
 es:Recuerdo "Terrible Souvenir"
+zh:回忆「恐怖的回忆」
 
 ja:想起「恐怖催眠術」
 en:Recollection "Terrifying Hypnotism"
 es:Recuerdo "Hipnotismo Espantoso"
+zh:回忆「恐怖催眠术」
 
 ja:脳符「ブレインフィンガープリント」
 en:Brain Sign "Brain Fingerprint"
 es:Signo Cerebral "Dactilograma de Cerebro"
+zh:脑符「脑指纹测谎法」
 
 ja:実像「ハイパーファンタジア」
 en:Real Image "Hyper Phantasia"

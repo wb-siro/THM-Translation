@@ -1,32 +1,41 @@
 ja:キャラクター
 en:Character
 es:Personaje
+zh:自机
 
 ja:キャラクター選択
 en:Character Select
 es:Selección de Personaje
+zh:
 
 ja:スペルカードキー
 en:Spell Card Key
 es:Llaves para SpellCards
+zh:符卡钥匙
 
 // Commercials are the same thing as advertisements.
 ja:CMを視聴してスペルカードキーを3本入手
 en:Watch the commercial and get 3keys
 es:Mira un comercial y obtén 3llaves
+zh:
 
 ja:視聴する
 en:Watch now
 es:Mirar ahora
+zh:现在观看
 
 ja:キャンセル
 en:Cancel
 es:Cancelar
+zh:取消
 
 ja:設定
 en:Setting
 es:Ajustes
+zh:设置
 
 ja:お知らせ
 en:Notice
 es:Aviso
+zh:消息
+

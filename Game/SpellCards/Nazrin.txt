@@ -1,11 +1,14 @@
 ja:捜符「ナズゲーションシステム」// coined word (Nazrin + Navigation)
 en:Search Sign "Nazgation System"
 es:Signo de Busqueda "Sistema de Nazvegación"
+zh:搜符「纳兹琳灵摆」
 
 ja:宝塔「グレイテストトレジャー」
 en:Jeweled Pagoda "Greatest Treasure"
 es:Pagoda Enjoyada "Grandioso Tesoro"
+zh:宝塔「最优良的宝物」
 
 ja:棒符「ビジーロッド」
 en:Rod Sign "Busy Rod"
 es:Signo de vara "Vara Atareada"
+zh:棒符「忙碌探知棒」

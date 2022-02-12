@@ -1,14 +1,17 @@
-﻿ja:不具合・要望
+ja:不具合・要望
 en:Bug and request reports
 es:Solicitudes e informes de errores
+zh:反馈·建议报告
 
 ja:※報告に対する個別の返答はありません
 en:※There will be no individual response to the report
 es:※No va a haber respuestas individuales a informes
+zh:※您的报告不会有个人回复
 
 ja:送信
 en:Report
 es:Informe
+zh:反馈·建议
 
 ///////////////////////////////////////////////////
 // Message when the Report button is pressed
@@ -30,14 +33,17 @@ es:Estás enviando demasiados informes, por favor espera ~15 minutos
 ja:メッセージを送信しますか？
 en:Send message?
 es:Enviar mensaje?
+zh:发送信息？
 
 ja:送信
 en:Yes
 es:Si
+zh:是
 
 ja:キャンセル
 en:No
 es:No
+zh:否
 
 ///////////////////////////////////////////////////
 // Message when sent report
@@ -45,7 +51,9 @@ es:No
 ja:メッセージを送信しました
 en:Thank you for your message
 es:Muchas gracias por enviar este informe!
+zh:感谢您的反馈
 
 ja:メッセージの送信に失敗しました
 en:Failed to send message
 es:Ocurrió un error, el mensaje no pudo ser enviado
+zh:信息发送失败

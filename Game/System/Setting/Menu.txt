@@ -1,31 +1,38 @@
-﻿ja:戻る
+ja:戻る
 en:Back
 es:Atrás
 
 ja:難易度
 en:Difficulty
 es:Dificultad
+zh:难度选择
 
 ja:プレイヤー
 en:Player
 es:Jugador
+zh:玩家
 
 ja:操作
 en:Operation
 es:Ajustes
+zh:操作
 
 ja:ホーム
 en:Home
 es:Inicio
+zh:首页
 
 ja:言語
 en:Language
 es:Lenguaje
+zh:语言
 
 ja:不具合・要望
 en:Reports
 es:Reportes
+zh:反馈·建议报告
 
 ja:スペシャルサンクス
 en:Special Thanks
 es:Gracias Especiales
+zh:特别鸣谢

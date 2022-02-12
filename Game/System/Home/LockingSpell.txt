@@ -1,6 +1,7 @@
 ja:LOCKING // English is fine.
 en:LOCKING
 es:ACERROJADO
+zh:未解锁
 
 //////////////////////////////////////////////////
 // Screen to consume the spell card key.
@@ -9,18 +10,22 @@ es:ACERROJADO
 ja:スペルカードキーを1つ消費します
 en:Consumes spell card key
 es:Consume una llave de SpellCard
+zh:消耗1枚符卡钥匙
 
 ja:スペルカードキーを3つ消費します
 en:Consumes 3 spell card keys
 es:Consume 3 llaves de SpellCard
+zh:消耗3枚符卡钥匙
 
 ja:消費して開放
 en:Consume and open
 es:Consumir y abrir
+zh:消耗并解锁
 
 ja:キャンセル
 en:Cancel
 es:Cancelar
+zh:取消
 
 //////////////////////////////////////////////////
 // Screen to watch a commercial.
@@ -30,14 +35,12 @@ es:Cancelar
 ja:CMを視聴して開放します
 en:Open when you watch the commercial
 es:Abrir al ver un comercial
+zh:播放广告后解锁
 
 ja:視聴する
 en:Watch now
 es:Mirar ahora
-
-ja:キャンセル
-en:Cancel
-es:Cancelar
+zh:现在观看
 
 //////////////////////////////////////////////////
 // Failed to load commercial screen.
@@ -46,15 +49,19 @@ es:Cancelar
 ja:CMを読み込めませんでした
 en:CM could not be loaded
 es:Comercial no pudo cargarse
+zh:广告无法加载
 
 ja:CMの視聴に失敗しました
 en:Failed to watch commercial
 es:Hubo un fallo al ver el comercial
+zh:播放广告失败
 
 ja:広告の表示が制限されています
 en:Display of ads is restricted
 es:Visualización de comerciales está restringida
+zh:广告显示受限
 
 ja:閉じる
 en:Close
 es:Cerrar
+zh:关闭

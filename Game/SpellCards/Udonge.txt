@@ -1,15 +1,19 @@
 ja:波符「赤眼催眠(マインドシェイカー)」
 en:Wave Sign "Mind Shaker (Red-Eyed Hypnosis)"
 es:Signo de Onda "Agitador Mental (Hipnosis de Ojos Rojos)"
+zh:妖乐「打开雨伞」
 
 ja:幻波「赤眼催眠(マインドブローイング)」
 en:Illusion Wave "Mind Blowing (Red-Eyed Hypnosis)"
 es:Onda Ilusoria "Explosion Mental (Hipnosis de Ojos Rojos)"
+zh:
 
 ja:「幻朧月睨(ルナティックレッドアイズ)」
 en:Lunatic Red Eyes (Stare of the Hazy Phantom Moon)
 es:Lunáticos Ojos Rojos (Mirada de la Nebulosa Luna Fantasmal)
+zh:「幻胧月睨(Lunatic Red Eyes)」
 
 ja:幻兎「月輪死弾(ルナティックルーレット)」
 en:Illusion Rabbit "Lunatic Roulette (Moon Death Bullet)"
-es:Conejo Ilusorio "Ruleta Lunática (Mortal bala lunar)".
+es:Conejo Ilusorio "Ruleta Lunática (Mortal bala lunar)"
+zh:幻兔「月轮死弹（Lunatic Roulette）」

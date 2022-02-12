@@ -1,11 +1,14 @@
 ja:ゲームスタート
 en:Game Start
 es:Comenzar la Partida
+zh:
 
 ja:アンロック
 en:Unlock
 es:Desbloquear
+zh:
 
 ja:ランキング
 en:Ranking
 es:Ranking
+zh:世界排名

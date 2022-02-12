@@ -1,18 +1,22 @@
 ja:ホーム解像度
 en:Home Resolution
 es:Resolución
+zh:首页分辨率
 
 ja:固定
 en:Fixed
 es:Fija
+zh:固定
 
 ja:自動
 en:Auto
 es:Automática
+zh:自动
 
 ja:ホームBGM
 en:Home BGM
 es:Música del menú
+zh:首页BGM
 
 ja:スペルカードのソート
 en:Sorting spell cards

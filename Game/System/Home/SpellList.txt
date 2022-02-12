@@ -3,7 +3,9 @@
 ja:VS @@@ *番勝負
 en:VS @@@ *Game Match
 es:VS @@@ *Partidas
+zh:VS @@@ *番胜负
 
 ja:ステージをランダム選択
 en:Random selection
 es:Selección Aleatoria
+zh:随机选择

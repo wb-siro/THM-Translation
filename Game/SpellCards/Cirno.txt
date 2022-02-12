@@ -1,35 +1,44 @@
 ja:凍符「パーフェクトフリーズ」
 en:Freeze Sign "Perfect Freeze"
 es:Signo Congelado "Congelación Perfecta"
+zh:冻符「完美冻结」
 
 ja:雪符「ダイアモンドブリザード」
 en:Snow Sign "Diamond Blizzard"
 es:Signo de Nieve "Ventisca Adiamantada"
+zh:雪符「钻石风暴」
 
 ja:氷騎「フロストナイト」
 en:Ice Night "Frost Night"
 es:Noche de Hielo "Noche Helada"
+zh:冰骑「霜冻之夜」
 
 ja:氷貴「フロストジャック」
 en:Ice Jack "Frost Jack"
 es:Sota de Hielo "Sota Helada"
+zh:冰贵「霜冻骑士」
 
 ja:氷妃「フロストクイーン」
 en:Ice Queen "Frost Queen"
 es:Reina de Hielo "Reina Helada"
+zh:冰妃「霜冻皇后」
 
 ja:氷王「フロストキング」
 en:Ice King "Frost King"
 es:Rey de Hielo "Rey Helado"
+zh:冰王「霜冻之王」
 
 ja:零符「エターナルブリザード」
 en:Zero Sign "Eternal Blizzard"
 es:Signo de Cero "Nevada Eterna"
+zh:零符「永恒风暴」
 
 ja:零度「エターナルフォースブリザード」
 en:Zero "Eternal Force Blizzard"
 es:Cero Grados "Nevazón de Fuerza Eterna"
+zh:零度「永恒强劲风暴」
 
 ja:氷符「アルティメットブリザード」
 en:Ice Sign "Ultimate Blizzard"
 es:Signo de Hielo "Tormenta de Nieve Extrema"
+zh:冰符「最终风暴」

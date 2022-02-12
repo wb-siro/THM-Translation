@@ -1,27 +1,34 @@
 ja:サーバーの接続に失敗しました
 en:Server connection failed
 es:Hubo un fallo en la conexión al servidor
+zh:服务器连接失败
 
 ja:サーバーメンテナンス中です
 en:Server under maintenance
 es:Servidor en mantenimiento
+zh:服务器正在维护
 
 ja:ゲームをアップデートしてください
 en:Please update the game
 es:Por favor, actualiza el juego
+zh:请更新游戏
 
 ja:ランキングの取得に失敗しました
 en:Failed to retrieve the ranking
 es:Hubo un fallo al obtener el ranking
+zh:取得排名失败
 
 ja:ランキングの登録に失敗しました
 en:Failed to register the ranking
 es:Hubo un fallo al registrar el ranking
+zh:记录排名失败
 
 ja:平均スコアの取得に失敗しました
 en:Failed to get average score
 es:Hubo un fallo al obtener el puntaje promedio
+zh:取得平均得分失败
 
 ja:平均スコアの登録に失敗しました
 en:Failed to register average score
 es:Hubo un fallo al registrar el puntaje promedio
+zh:记录平均得分失败

@@ -1,11 +1,14 @@
 ja:「蓬莱の樹海」
 en:"Tree-Ocean of Hourai"
 es:"Arbol-Oceano de Hourai"
+zh:「蓬莱的树海」
 
 ja:新難題「金閣寺の一枚天井」
 en:Recollection "Vague Recollection of Kinkaku-ji"
 es:Recuerdo "Vagos Recuerdos de Kinkaku-ji"
+zh:新难题「金阁寺的一块天花板」
 
 ja:新難題「アンオブタニウム」
 en:Recollection "Unobtainium"
 es:Recuerdo "Unobtanium"
+zh:新难题「超导雷岩」

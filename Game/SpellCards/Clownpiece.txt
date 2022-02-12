@@ -1,19 +1,24 @@
 ja:獄符「カオスメリーゴーラウンド」
 en:Hell Sign "Chaos Merry-Go-Round"
 es:Signo Infernal "Carrusel Caótico"
+zh:狱符「混沌的旋转木马」
 
 ja:「フェイクアポロ」
 en:"Fake Apollo"
 es:"Falso Apolo"
+zh:「伪阿波罗」
 
 ja:「アポロ捏造説」
 en:"Apollo Hoax Theory"
 es:"Teoría Conspiratotria de Apolo"
+zh:「阿波罗捏造说」
 
 ja:獄符「ヘルエクリプス」
 en:Hell Sign "Hell Eclipse"
 es:Signo Infernal "Eclipse Infernal"
+zh:狱符「地狱日食」
 
 ja:獄符「地獄の蝕」
 en:Hell Sign "Eclipse of Hell"
 es:Signo Infernal "Eclipse en el Inferno"
+zh:狱符「地狱之蚀」

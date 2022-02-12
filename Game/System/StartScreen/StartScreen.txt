@@ -1,3 +1,4 @@
 ja:Touch to Start // English is fine.
 en:Touch to Start
 es:Toca para Empezar
+zh:点击开始

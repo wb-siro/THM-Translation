@@ -1,22 +1,27 @@
 ja:難易度選択
 en:Difficulty selection
 es:Selección de Dificultad
+zh:难度选择
 
 ja:EASY
 en:EASY
 es:FÁCIL
+zh:EASY
 
 ja:NORMAL
 en:NORMAL
 es:NORMAL
+zh:NORMAL
 
 ja:HARD
 en:HARD
 es:DIFÍCIL
+zh:HARD
 
 ja:LUNATIC
 en:LUNATIC
 es:LUNÁTICO
+zh:LUNATIC
 
 // EASY explanatory note (2 lines)
 ja:弾幕シューティングゲームが初めての方や
@@ -25,6 +30,7 @@ en:For those who are new to bullet-hell shooters
 en:and want to play in a dreamy atmosphere.
 es:Para aquellos jugadores introduciendose al juego,
 es:y los que quieran jugar en una atmósfera de ensueño.
+zh:适合想在愉快环境下体验的STG新手。
 
 // NORAML explanatory note (2 lines)
 ja:ある程度の経験者向け
@@ -33,6 +39,8 @@ en:For experienced players.
 en:You may be in danger if you are napping.
 es:Para jugadores con experiencia.
 es:Podrías estar en peligro, de tener sueño.
+zh:适合熟练的玩家。
+zh:如若打盹，可能会置身险境。
 
 // HARD explanatory note (2 lines)
 ja:しっかりとした難易度で遊びたい人向け
@@ -41,9 +49,11 @@ en:For expert players.
 en:There is little time to sleep.
 es:Para jugadores expertos.
 es:A menos que estes totalmente despierto...
+zh:适合专家级玩家。
+zh:没有停下睡觉的时间了。
 
 // LUNATIC explanatory note
 ja:悪夢
 en:Nightmares.
 es:Pesadillas.
-
+zh:梦魇。

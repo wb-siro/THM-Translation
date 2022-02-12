@@ -1,19 +1,24 @@
 ja:純符「ピュアリーバレットヘル」"
 en:Pure Sign "Purely Bullet Hell"
 es:Signo de Pureza "Infierno de Balas Puro"
+zh:纯符「纯粹的子弹地狱」
 
 ja:純符「純粋な弾幕地獄」
 en:Pure Sign "A Pristine Danmaku Hell"
 en:Signo de Pureza "Un Pristino Infierno Danmaku"
+zh:纯符「纯粹的弹幕地狱」
 
 ja:「原始の神霊界」
 en:"Primordial Divine Spirit World"
 es:"Primordial y Divino Mundo Espiritual"
+zh:「原始的神灵界」
 
 ja:「現代の神霊界」
 en:"Present-Day Divine Spirit World"
 es:"Actual y Divino Mundo Espiritual"
+zh:「现代的神灵界」
 
 ja:「終わりなき厭悪」
 en:"Endless Evil"
 es:"Maldad Sinfin"
+zh:「无止境的厌恶」

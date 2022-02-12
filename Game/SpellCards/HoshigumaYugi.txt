@@ -1,15 +1,19 @@
 ja:力業「大江山嵐」
 en:Feat of Strength "Storm on Mt. Ooe"
 es:Hazaña de Fuerza "Tormenta en el Monte Ooe"
+zh:力业「大江山岚」
 
 ja:力業「大江山颪」
 en:Feat of Strength "Wind Blowing Down from Mt. Ooe"
 es:Hazaña de Fuerza "Viento Soplando desde el Monte Ooe"
+zh:力业「大江山颪」
 
 ja:鬼声「壊滅の咆哮」
 en:Oni's Voice "Annihilating Roar"
 es:Voz de Oni "Rugido Aniquilante"
+zh:鬼声「坏灭的咆哮」
 
 ja:四天王奥義「三歩必殺」
 en:Big Four Arcanum "Knock Out In Three Steps"
 es:Cuatro Grandes Arcanas "Nocaut en Tres Pasos"
+zh:四天王奥义「三步必杀」
