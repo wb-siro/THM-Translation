@@ -1,12 +1,12 @@
 ja:ゲームスタート
 en:Game Start
 es:Comenzar la Partida
-zh:
+zh:开始游戏
 
 ja:アンロック
 en:Unlock
 es:Desbloquear
-zh:
+zh:解锁
 
 ja:ランキング
 en:Ranking

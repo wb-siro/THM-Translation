@@ -21,11 +21,13 @@ zh:反馈·建议
 ja:文章を入力してください
 en:Please enter a sentence
 es:Por favor, ingresa texto
+zh:请输入您的反馈
 
 // When the try to send several times in a short period of time.
 ja:連続して送信できません。15分程度お待ち下さい
 en:Please wait about 15 minutes
 es:Estás enviando demasiados informes, por favor espera ~15 minutos
+zh:不能连续发送，请等待15分钟
 
 ///////////////////////////////////////////////////
 // Transmission confirmation screen

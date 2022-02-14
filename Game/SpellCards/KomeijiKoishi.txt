@@ -21,3 +21,4 @@ zh:复燃「恋爱的埋火」
 ja:虚像「ハイパーアファンタジア」
 en:Virtual Image "Hyper Aphantasia"
 es:Imagen Virtual "Hiper Afantasia"
+zh:虚像「极端心盲者」

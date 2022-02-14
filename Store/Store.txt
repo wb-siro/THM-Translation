@@ -9,6 +9,7 @@
 ja:東方魔導禄
 en:Touhou Madouroku
 es:Touhou Madouroku
+zh:东方魔导录
 
 //////////////////////////////////////////////////
 // Short description of the game
@@ -17,6 +18,7 @@ es:Touhou Madouroku
 ja:"霧雨魔理沙" が様々な弾幕に挑む、東方二次創作ゲーム！
 en:"Marisa Kirisame" tries various danmaku. Touhou fangames!
 es:Marisa Kirisame se embarca en una aventura danmaku. Fangames de Touhou!
+zh:雾雨魔理沙挑战各种各样的弹幕。东方二次创作游戏！
 
 //////////////////////////////////////////////////
 // Operation Description (2 lines)
@@ -28,6 +30,8 @@ en:The only control method is sliding!
 en:Avoid the oncoming barrage with flair!
 es:La única forma de control es moverse!
 es:Evita el bombardeo inminente con estilo!
+zh:操作方法只有滑动！
+zh:华丽地躲避逼近的弹幕吧！
 
 //////////////////////////////////////////////////
 // Notes on the game
@@ -36,6 +40,7 @@ es:Evita el bombardeo inminente con estilo!
 ja:このゲームについて
 en:About this game
 es:Acerca del juego
+zh:关于游戏
 
 // (3 lines)
 ja:このゲームは上海アリス幻樂団『東方Project』の二次創作です。
@@ -47,10 +52,13 @@ en:The characters, the world, and the setting may differ from the original.
 es:Este juego es un trabajo secundario de Touhou Project, por 上海アリス幻樂団.
 es:Todos los materiales usados en este juego son gratis.
 es:Los personajes, el mundo, y los escenarios pueden diferir de lo original.
+zh:本游戏是上海爱丽丝幻乐团『东方Project』的二次创作。
+zh:游戏使用的东方素材全部是免费素材。登场的角色、世界观、设定等可能与原作不同。
 
 ja:プレイ動画・スクリーンショットに関して
 en:Play videos and screenshots
 es:Videos y capturas de pantalla
+zh:关于游戏视频和截屏
 
 // (2 lines) ※The parts written in Japanese can be translated or left as is.
 ja:上海アリス幻樂団が公開している『動画配信サービスへの投稿に関するガイドライン』で許可されている範囲であれば、報告等の必要なく利用可能です。
@@ -59,3 +67,5 @@ en:You can use the videos and screenshots as long as they are within the scope o
 en:As for the rest, please follow the "東方Projectの二次創作ガイドライン".
 es:Se pueden usar videos y capturas de pantalla, siempre y cuando estén dentro del margen de "動画配信サービスへの投稿に関するガイドライン", publicado por 上海アリス幻樂団.
 es:En cuanto al resto, por favor seguir a "東方Projectの二次創作ガイドライン".
+zh:只要符合上海爱丽丝幻乐团公开的『動画配信サービスへの投稿に関するガイドライン』的规定范围，不需要报告等说明就可以使用了。
+zh:至于其他内容，请参照『东方Project的二次创作指南』。

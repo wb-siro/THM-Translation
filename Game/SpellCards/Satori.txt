@@ -16,3 +16,4 @@ zh:脑符「脑指纹测谎法」
 ja:実像「ハイパーファンタジア」
 en:Real Image "Hyper Phantasia"
 es:Imagen Real "Hiper Fantasia"
+zh:实像「超级幻想家」

@@ -1,6 +1,7 @@
 ja:戻る
 en:Back
 es:Atrás
+zh:返回
 
 ja:難易度
 en:Difficulty

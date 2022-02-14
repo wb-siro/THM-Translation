@@ -11,4 +11,4 @@ zh:弹符「兔子驯鹰者」
 ja:兎符「本気ぺったんこ」
 en:Rabbit Sign "Violent Pettanko"
 es:Signo de Conejo "Pettanko Violenta"
-
+zh:兔符「来砸团子喽」

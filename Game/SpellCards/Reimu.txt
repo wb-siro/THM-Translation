@@ -11,7 +11,7 @@ zh:神技「八方龙杀阵」
 ja:神技「八方龍殺陣」
 en:Divine Arts "Omnidirectional Dragon-Slaying Circle"
 es:Artes Divinas "Círculo Omnidireccional Asesina-Dragones"
-zh:
+zh:神技「八方鬼缚阵」
 
 ja:夢符「二重結界」
 en:Dream Sign "Duplex Barrier"
