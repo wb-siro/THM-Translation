@@ -42,3 +42,8 @@ ja:氷符「アルティメットブリザード」
 en:Ice Sign "Ultimate Blizzard"
 es:Signo de Hielo "Tormenta de Nieve Extrema"
 zh:冰符「最终风暴」
+
+ja:妖精「パーフェクトダイアリー」
+en:Fairy Sign "Perfect Diary"
+
+
