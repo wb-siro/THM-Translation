@@ -17,3 +17,6 @@ ja:「スカーレットディスティニー」
 en:"Scarlet Destiny"
 es:"Destino Escarlata"
 zh:「绯色命运」
+
+ja:終槍「プレヴィアスラグナロク」
+en:End Spear "Previous Ragnarok"
