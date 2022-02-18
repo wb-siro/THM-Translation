@@ -1,0 +1,9 @@
+// Reimu Hakurei
+ja:楽園の巫女
+en:Shrine maiden of Paradise
+zh:乐园的巫女
+
+// Marisa Kirisame
+ja:普通の魔法使い
+en:Ordinary wizard
+zh:普通的魔法使
