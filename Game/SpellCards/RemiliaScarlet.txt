@@ -20,3 +20,4 @@ zh:「绯色命运」
 
 ja:終槍「プレヴィアスラグナロク」
 en:End Spear "Previous Ragnarok"
+es:Lanza Final "Ragnarok Previo"
