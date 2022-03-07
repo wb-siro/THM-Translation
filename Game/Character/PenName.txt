@@ -1,7 +1,7 @@
 // Reimu Hakurei
 ja:楽園の巫女
 en:Shrine maiden of Paradise
-es:Miko del Paraiso
+es:Sacerdotisa del Paraiso
 zh:乐园的巫女
 
 // Marisa Kirisame
