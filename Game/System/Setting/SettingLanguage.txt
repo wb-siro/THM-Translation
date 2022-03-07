@@ -14,5 +14,5 @@ es:Acerca de la traducción
 
 ja:文章の翻訳はありません。また、全ての翻訳が完了していない場合があります
 en:There is no translation of the text. Also, not all translations may have been completed.
-es:No hay traducción del texto de Marisa. Además, puede ser que las traducciones no estén completas/correctas.
+es:No hay traducción de ciertos textos, lamentablemente. Además, puede ser que las traducciones no estén completas/correctas.
 zh:此处没有翻译。而且，并不是所有翻译都已经完成。
