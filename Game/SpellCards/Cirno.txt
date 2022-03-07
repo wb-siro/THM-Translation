@@ -45,5 +45,5 @@ zh:冰符「最终风暴」
 
 ja:妖精「パーフェクトダイアリー」
 en:Fairy Sign "Perfect Diary"
-
+es:Signo de Hada "Diario Perfecto"
 
