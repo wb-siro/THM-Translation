@@ -15,5 +15,5 @@ zh:「幻胧月睨(Lunatic Red Eyes)」
 
 ja:幻兎「月輪死弾(ルナティックルーレット)」
 en:Illusion Rabbit "Lunatic Roulette (Moon Death Bullet)"
-es:Conejo Ilusorio "Ruleta Lunática (Mortal bala lunar)"
+es:Conejo Ilusorio "Ruleta Lunática (Mortal Bala Lunar)"
 zh:幻兔「月轮死弹（Lunatic Roulette）」
