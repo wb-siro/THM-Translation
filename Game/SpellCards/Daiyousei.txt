@@ -1,2 +1,3 @@
 ja:花符「フェアリーギフト」
 en:Flower Sign "Fairy Gift"
+es:Signo Floral "Regalo de Hada"
