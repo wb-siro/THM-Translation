@@ -110,3 +110,4 @@ zh:古明地觉
 
 ja:大妖精
 en:Daiyousei
+es:Daiyousei
