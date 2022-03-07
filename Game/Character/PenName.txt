@@ -1,9 +1,11 @@
 // Reimu Hakurei
 ja:楽園の巫女
 en:Shrine maiden of Paradise
+es:Miko del Paraiso
 zh:乐园的巫女
 
 // Marisa Kirisame
 ja:普通の魔法使い
 en:Ordinary wizard
+es:Maga Ordinaria
 zh:普通的魔法使
