@@ -30,3 +30,4 @@ zh:水符「河童的洒水装置β型」
 
 ja:水弾「クイックドロー」
 en:Water Bullet "Quick Draw"
+es:Bala de Agua "Desenfunde Rápido"
