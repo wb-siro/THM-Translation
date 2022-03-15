@@ -27,3 +27,6 @@ ja:水符「河童スプリンクラーβ」
 en:Water Sign "Kappa Sprinkler β"
 es:Signo de Agua "Rociador Kappa β"
 zh:水符「河童的洒水装置β型」
+
+ja:水弾「クイックドロー」
+en:Water Bullet "Quick Draw"
