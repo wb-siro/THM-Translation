@@ -15,3 +15,4 @@ zh:奇石「河中的龟石」
 
 ja:祟符「ミシャグジさま」
 en:Scourge Sign "Mishaguji-sama"
+es:Signo de Azote "Diosa Mishaguji"
