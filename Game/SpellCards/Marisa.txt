@@ -1,23 +1,32 @@
-﻿ja:恋符「マスタースパーク」
+ja:恋符「マスタースパーク」
 en:Love Sign "Master Spark"
 es:Signo de Amor "Centella Maestra"
+zh:恋符「极限火花」
 
 ja:恋心「ダブルスパーク」
 en:Loving Heart "Double Spark"
 es:COrazón Amoroso "Doble Centella"
+zh:恋心「二重火花」
 
 ja:魔砲「ファイナルスパーク」
 en:Magicannon "Final Spark"
 es:Magicañon "Centella Final"
+zh:魔炮「究极火花」
 
 ja:魔砲「ファイナルマスタースパーク」
 en:Magicannon "Final Master Spark"
 es:Magicañon "Centella Maestra Final"
+zh:魔炮「超究极火花」
 
 ja:「ブレイジングスター」
 en:"Blazing Star"
 es:"Estrella Ardiente"
+zh:「炽热之星」
 
 ja:流星「ライトニングスター」
 en:Meteor "Lightning Star"
 es:Meteoro "Estrella Relámpago"
+zh:流星「闪电之星」
+
+ja:新星「スーパーノヴァ」
+en:Rising Star "Super Nova"
