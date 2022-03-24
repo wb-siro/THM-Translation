@@ -28,5 +28,5 @@ en:Meteor "Lightning Star"
 es:Meteoro "Estrella Relámpago"
 zh:流星「闪电之星」
 
-ja:新星「スーパーノヴァ」
-en:Rising Star "Super Nova"
+ja:恒星「スーパーノヴァ」
+en:Fixed Star "Super Nova"
