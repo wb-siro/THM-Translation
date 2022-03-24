@@ -30,3 +30,4 @@ zh:流星「闪电之星」
 
 ja:恒星「スーパーノヴァ」
 en:Fixed Star "Super Nova"
+es:Estrella Fija "Supernova"
