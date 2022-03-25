@@ -5,6 +5,7 @@ zh:难度选择
 
 ja:ホーム画面のアイコンからも変更できます
 en:You can also change it from the icon on the home screen
+es:También la puedes cambiar desde el ícono en el menú principal
 
 ja:EASY
 en:EASY
