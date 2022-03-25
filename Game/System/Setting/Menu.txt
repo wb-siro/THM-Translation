@@ -13,10 +13,15 @@ en:Player
 es:Jugador
 zh:玩家
 
-ja:操作
-en:Operation
-es:Ajustes
-zh:操作
+ja:音量
+en:Volume
+es:Volumen
+zh:音量
+
+ja:入力感度
+en:Input sensitivity
+es:Sensibilidad de Movimiento
+zh:滑动灵敏度
 
 ja:ホーム
 en:Home
