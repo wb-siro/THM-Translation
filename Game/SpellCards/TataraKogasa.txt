@@ -27,3 +27,10 @@ ja:妖楽「オープン・ザ・アンブレラ」
 en:Youraku "Open the Umbrella"
 es:Youkai "Abre el Paraguas"
 zh:妖乐「打开雨伞」
+
+ja:虹符「アンブレラサイクロン」
+en:Rainbow Sign "Umbrella Cyclone"
+
+ja:虹符「アンブレラストーム」
+en:Rainbow Sign "Umbrella Storm"
+
