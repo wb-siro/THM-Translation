@@ -33,6 +33,9 @@ en:Language
 es:Lenguaje
 zh:语言
 
+ja:広告解除
+en:Store
+
 ja:不具合・要望
 en:Reports
 es:Reportes

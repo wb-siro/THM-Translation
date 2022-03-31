@@ -1,0 +1,182 @@
+/////////////////////////////////////////////////////////////
+// Title
+/////////////////////////////////////////////////////////////
+ja:このゆびとまれ
+en:Kono Yubi Tomare
+zh:捉迷藏
+
+// What is "Kono Yubi Tomare"?
+// A gesture and word used in children's games to gather people together.
+// It means "everyone gather here" by holding up an index finger.
+
+/////////////////////////////////////////////////////////////
+// Middle point
+/////////////////////////////////////////////////////////////
+[Marisa]
+ja:そんなに急いでどうしたんだ？
+en:What's the hurry?
+zh:这么急是怎么啦？
+
+[Daiyousei]
+ja:魔理沙さん！今、チルノちゃんと鬼ごっこをしている所で
+en:Marisa! I'm playing tag with Cirno right now
+zh:魔理沙！我正在和琪露诺酱玩捉迷藏
+
+[Marisa]
+ja:んー？肝心の鬼は近くには居ないようだが
+en:Hmm? The key demon doesn't seem to be anywhere nearby.
+zh:嗯？最重要的鬼好像不在这里
+
+[Daiyousei]
+ja:あれ？さっきまですぐ後ろに居たはずなのに、どこ行っちゃったんだろう
+en:Huh? He was right behind me just a moment ago, but where did he go?
+zh:咦？刚才还在后面的，现在到哪里去了？
+
+[Marisa]
+ja:...
+en:...
+zh:...
+
+[Marisa]
+ja:丁度良かった、実は今なかまを探していてな
+en:Good to know, I'm actually looking for a "Nakama" right now.
+zh:太好了，其实我现在在找同伴
+
+// "Nakama" means friend. 
+// The name is a play on the word "Nakama" from the "Megami Tensei" series.
+
+[Daiyousei]
+ja:仲間？なにかで遊ぶんですか？
+en:Friends? Do you play with something?
+zh:同伴？要玩什么吗？
+
+[Marisa]
+ja:そうだなー、仲間をゲットするにはまず弱らせる必要がある！
+en:Yeah - to get a friend, you have to weaken them first!
+zh:是啊，想要得到同伴就要先击败她！
+
+// "Get a Friend" is from "Pokémon"
+
+[Daiyousei]
+ja:話聞いてないしっ！
+en:You're not listening to me!
+zh:从没听说过！
+
+/////////////////////////////////////////////////////////////
+// Boss battle
+/////////////////////////////////////////////////////////////
+[Cirno]
+ja:あ！魔理沙！
+en:Ah! Marisa!
+zh:啊！魔理沙！
+
+[Marisa]
+ja:よっ！チルノ
+en:Yo! Cirno.
+zh:哟！琪露诺！
+
+[Cirno]
+ja:そうだ、大ちゃん見なかった？
+en:Oh yeah, have you seen Dai-chan?
+zh:对了，你有没有看见大酱？
+
+// "Dai-chan" means "Daiyousei"
+
+[Marisa]
+ja:ああ、私は見ていたが向こうはこちらを見ていなかったな
+en:Yeah, I was looking at her, but she wasn't looking at me.
+zh:啊，我见到过她，不过她没发现我
+
+// From the "Dragon Quest" line.
+// -> I'm looking at you as if I became a friend
+
+[Cirno]
+ja:???
+en:???
+zh:???
+
+[Cirno]
+ja:つまり何処にいるか知っているってこと？
+en:Does that mean you know where she is?
+zh:也就是说，你知道她在哪里？
+
+[Marisa]
+ja:まぁ、そんなところだ
+en:Well, that's about it.
+zh:嘛…算是吧
+
+[Cirno]
+ja:わかった！弾幕ごっこで勝てばいいんでしょ、望むところだ！
+en:All right! You just have to play danmaku to win, I hope!
+zh:明白了，只要在弹幕游戏中取胜就可以了吧，真是太好了！
+
+/////////////////////////////////////////////////////////////
+// During the battle
+/////////////////////////////////////////////////////////////
+[Daiyousei]
+ja:チルノちゃん！
+en:Cirno!
+zh:琪露诺酱！
+
+[Cirno]
+ja:大ちゃん！？
+en:Dai-chan!?
+zh:大酱！？
+
+[Daiyousei]
+ja:助けに来たよ！
+en:I'm here to help!
+zh:我来帮你！
+
+/////////////////////////////////////////////////////////////
+// End of Battle
+/////////////////////////////////////////////////////////////
+[Cirno]
+ja:ぎゃふん！
+en:Geez!
+zh:哇啊！
+
+[Marisa]
+ja:すまん、すまん、ちょっと火力を出しすぎた
+en:Sorry, sorry, I was a little overzealous with the firepower.
+zh:抱歉，抱歉，火力稍微有点过了
+
+[Daiyousei]
+ja:チルノちゃん大丈夫？
+en:Cirno, are you hurt? Are you okay?
+zh:琪露诺酱没事吧？
+
+[Cirno]
+ja:いてて、大ちゃんありがとう
+en:Ouch, thanks Dai-chan.
+zh:痛痛痛…谢谢大酱啦
+
+[Cirno]
+ja:そういえば、さっきまで大ちゃんを探していたような
+en:Come to think of it, I think I was just looking for Dai-chan a few minutes ago.
+zh:说起来 从刚刚开始就一直在找大酱呢
+
+[Cirno]
+ja:なんでだっけ？
+en:Why?
+zh:是为啥来着？
+
+[Daiyousei]
+ja:あはは、それは
+en:Haha, that is.
+zh:啊哈哈，那个…
+
+[Marisa]
+ja:おいおい、忘れちゃったのか？
+en:Oh, come on, have you forgotten?
+zh:喂喂，你忘了吗？
+
+[Marisa]
+ja:面白い遊びを思いついたから、これから一緒に遊ぶって
+en:I've come up with a fun game and we're going to play it together.
+zh:想到了一个有趣的游戏，以后一起玩
+
+[Marisa]
+ja:仲間を探していた所だぜ
+en:Where I am looking for a friend!
+zh:我正在找同伴呢
