@@ -30,7 +30,9 @@ zh:妖乐「打开雨伞」
 
 ja:虹符「アンブレラサイクロン」
 en:Rainbow Sign "Umbrella Cyclone"
+es:Signo Arcoiris "Ciclón de Paraguas"
 
 ja:虹符「アンブレラストーム」
 en:Rainbow Sign "Umbrella Storm"
+es:Signo Arcoiris "Tormenta de Paraguas"
 
