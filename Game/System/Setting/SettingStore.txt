@@ -1,11 +1,14 @@
 ja:購入
 en:Purchased
+es:Comprado
 
 ja:購入済み
 en:Purchased
+es:Comprado
 
 ja:購入状態の復元
 en:Restore Purchase Status
+es:Restaurar Estado de Compra
 
 //////////////////////////////////////////////////////
 // Items for sale
@@ -13,12 +16,15 @@ en:Restore Purchase Status
 
 ja:バナー広告解除
 en:Banner ads removed
+es:Ads de banner removidos
 
 ja:画面上部のバナー広告を解除します
 en:Remove banner ads at the top of the screen.
+es:Remueve ads del banner en la parte superior de la pantalla.
 
 ja:動画広告の解除
 en:Removing Video Ads
+es:Removiendo Ads de Videos
 
 ja:動画広告を視聴せずに全てのコンテンツを遊ぶことができます
 ja:*今後実装される項目も全て対象になります
@@ -26,39 +32,53 @@ ja:*今後実装される項目も全て対象になります
 en:Play all content without watching video ads.
 en:*All items to be implemented in the future will also be covered.
 
+es:Juega todo el contenido sin mirar ads en forma de video.
+es:*Todos los items implementados en el futuro también serán cubiertos.
+
 //////////////////////////////////////////////////////
 // System message when the purchase button is pressed
 //////////////////////////////////////////////////////
 
 ja:正常に処理が行われました
 en:Successfully processed.
+es:Procesado exitosamente.
 
 ja:キャンセルしました
 en:Canceled.
+es:Cancelado
 
 ja:ストアに接続できません
 en:Unable to connect to store.
+es:Incapaz de conectarse a la tienda.
 
 ja:商品が見つかりません
 en:The product is not available to purchase on the store.
+es:El producto no está disponible para comprar en la tienda.
 
 ja:購入ライブラリが無効になっています
 en:The system purchasing feature is unavailable.
+es:El sistema de compras no está disponible.
 
 ja:不明なアプリからの購入はできません
 en:No purchases can be made from unknown applications.
+es:Ninguna compra puede ser realizada desde aplicaciones desconocidas.
 
 ja:購入処理中です
 en:A purchase was already in progress when a new purchase was requested.
+es:Una compra estaba en proceso cuando una nueva compra fue solicitada.
 
 ja:領収書の署名に失敗しました
 en:Signature validation of the purchase's receipt failed.
+es:Validación de la firma de la boleta de la compra ha fallado.
 
 ja:支払いに問題がありました
 en:There was a problem with the payment.
+es:Hubo un problema con el pago.
 
 ja:重複トランザクションエラー
 en:A duplicate transaction error when the transaction has already been completed successfully.
+es:Un error de transacción duplicada ha ocurrido, al querer comprar algo previamente comprado.
 
 ja:不明なエラー
 en:Unknown error.
+es:Error desconocido.
