@@ -1,6 +1,6 @@
 ja:購入
 en:Purchased
-es:Comprado
+es:Comprar
 
 ja:購入済み
 en:Purchased
