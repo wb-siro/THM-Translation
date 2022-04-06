@@ -3,6 +3,7 @@
 /////////////////////////////////////////////////////////////
 ja:このゆびとまれ
 en:Kono Yubi Tomare
+es:Vengan Todos!
 zh:捉迷藏
 
 // What is "Kono Yubi Tomare"?
@@ -15,31 +16,37 @@ zh:捉迷藏
 [Marisa]
 ja:そんなに急いでどうしたんだ？
 en:What's the hurry?
+es:Por qué tanto apuro?
 zh:这么急是怎么啦？
 
 [Daiyousei]
 ja:魔理沙さん！今、チルノちゃんと鬼ごっこをしている所で
 en:Marisa! I'm playing tag with Cirno right now
+es:Marisa! Con Cirno estamos jugando a pillarnos.
 zh:魔理沙！我正在和琪露诺酱玩捉迷藏
 
 [Marisa]
 ja:んー？肝心の鬼は近くには居ないようだが
-en:Hmm? The key demon doesn't seem to be anywhere nearby.
+en:Hmm? That little demon doesn't seem to be anywhere nearby.
+es:Hmm? Esa pequeña demonia no parece estar por aquí cerca.
 zh:嗯？最重要的鬼好像不在这里
 
 [Daiyousei]
 ja:あれ？さっきまですぐ後ろに居たはずなのに、どこ行っちゃったんだろう
-en:Huh? He was right behind me just a moment ago, but where did he go?
+en:Huh? She was right behind me just a moment ago, where did she go?
+es:Huh? Ella estaba recién atras mio, donde se metió?
 zh:咦？刚才还在后面的，现在到哪里去了？
 
 [Marisa]
 ja:...
 en:...
+es...
 zh:...
 
 [Marisa]
 ja:丁度良かった、実は今なかまを探していてな
 en:Good to know, I'm actually looking for a "Nakama" right now.
+es:Está todo bien, no te preocupes, en realidad estaba buscando a alguna amiga.
 zh:太好了，其实我现在在找同伴
 
 // "Nakama" means friend. 
@@ -48,11 +55,13 @@ zh:太好了，其实我现在在找同伴
 [Daiyousei]
 ja:仲間？なにかで遊ぶんですか？
 en:Friends? Do you play with something?
+es:Amiga? ¿Quieres jugar, o algo?
 zh:同伴？要玩什么吗？
 
 [Marisa]
 ja:そうだなー、仲間をゲットするにはまず弱らせる必要がある！
 en:Yeah - to get a friend, you have to weaken them first!
+es:Asi es - y si quieres hacer a alguien tu amiga, tienes que debilitarla primero!
 zh:是啊，想要得到同伴就要先击败她！
 
 // "Get a Friend" is from "Pokémon"
@@ -60,6 +69,7 @@ zh:是啊，想要得到同伴就要先击败她！
 [Daiyousei]
 ja:話聞いてないしっ！
 en:You're not listening to me!
+es:No me estás escuchando!
 zh:从没听说过！
 
 /////////////////////////////////////////////////////////////
@@ -68,16 +78,19 @@ zh:从没听说过！
 [Cirno]
 ja:あ！魔理沙！
 en:Ah! Marisa!
+es:Ah! Marisa!
 zh:啊！魔理沙！
 
 [Marisa]
 ja:よっ！チルノ
 en:Yo! Cirno.
+es:Hey Cirno!
 zh:哟！琪露诺！
 
 [Cirno]
 ja:そうだ、大ちゃん見なかった？
 en:Oh yeah, have you seen Dai-chan?
+es:Por si acaso, has visto a Dai-chan?
 zh:对了，你有没有看见大酱？
 
 // "Dai-chan" means "Daiyousei"
