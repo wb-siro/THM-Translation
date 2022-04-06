@@ -1,11 +1,13 @@
 ja:湊符「ファントムシップハーバー」
 en:Harbor Sign "Phantom Ship Harbor"
+es:Signo del Puerto "Puerto del Barco Fantasma"
 
 
 ja:湊符「幽霊船の港」
 en:Harbor Sign "Phantom Ship's Port"
+es:Signo del Puerto "Muelle del Barco Fantasma"
 
 
 ja:湊符「幽霊船永久停泊」
 en:Harbor Sign "Phantom Ship's Eternal Anchorage"
-
+es:Signo del Puerto "Anclaje Eterno del Banco Fantasma"
