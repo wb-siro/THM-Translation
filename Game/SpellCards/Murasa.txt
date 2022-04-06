@@ -1,0 +1,11 @@
+ja:湊符「ファントムシップハーバー」
+en:Harbor Sign "Phantom Ship Harbor"
+
+
+ja:湊符「幽霊船の港」
+en:Harbor Sign "Phantom Ship's Port"
+
+
+ja:湊符「幽霊船永久停泊」
+en:Harbor Sign "Phantom Ship's Eternal Anchorage"
+

@@ -111,3 +111,6 @@ zh:古明地觉
 ja:大妖精
 en:Daiyousei
 es:Daiyousei
+
+ja:村紗水蜜
+en:Minamitsu Murasa
