@@ -3,7 +3,7 @@
 /////////////////////////////////////////////////////////////
 ja:このゆびとまれ
 en:Kono Yubi Tomare
-es:Vengan Todos!
+es:Vengan Todas!
 zh:捉迷藏
 
 // What is "Kono Yubi Tomare"?
@@ -46,7 +46,7 @@ zh:...
 [Marisa]
 ja:丁度良かった、実は今なかまを探していてな
 en:Good to know, I'm actually looking for a "Nakama" right now.
-es:Está todo bien, no te preocupes, en realidad estaba buscando a alguna amiga.
+es:Está todo bien, no te preocupes, en realidad estaba buscando a una amiga.
 zh:太好了，其实我现在在找同伴
 
 // "Nakama" means friend. 
@@ -68,8 +68,8 @@ zh:是啊，想要得到同伴就要先击败她！
 
 [Daiyousei]
 ja:話聞いてないしっ！
-en:You're not listening to me!
-es:No me estás escuchando!
+en:I've never heard that!
+es:Nunca he escuchado eso!
 zh:从没听说过！
 
 /////////////////////////////////////////////////////////////
@@ -98,6 +98,7 @@ zh:对了，你有没有看见大酱？
 [Marisa]
 ja:ああ、私は見ていたが向こうはこちらを見ていなかったな
 en:Yeah, I was looking at her, but she wasn't looking at me.
+es:Si, la alcanze a ver, pero ella no me vio a mi.
 zh:啊，我见到过她，不过她没发现我
 
 // From the "Dragon Quest" line.
@@ -106,21 +107,24 @@ zh:啊，我见到过她，不过她没发现我
 [Cirno]
 ja:???
 en:???
+es:???
 zh:???
 
 [Cirno]
 ja:つまり何処にいるか知っているってこと？
 en:Does that mean you know where she is?
+es:Entonces sabes donde está?
 zh:也就是说，你知道她在哪里？
 
 [Marisa]
 ja:まぁ、そんなところだ
 en:Well, that's about it.
-zh:嘛…算是吧
+zh:Bueno, algo asi.
 
 [Cirno]
 ja:わかった！弾幕ごっこで勝てばいいんでしょ、望むところだ！
 en:All right! You just have to play danmaku to win, I hope!
+es:De acuerdo! Si tengo que vencerte con danmaku, que así sea!
 zh:明白了，只要在弹幕游戏中取胜就可以了吧，真是太好了！
 
 /////////////////////////////////////////////////////////////
@@ -129,16 +133,19 @@ zh:明白了，只要在弹幕游戏中取胜就可以了吧，真是太好了�
 [Daiyousei]
 ja:チルノちゃん！
 en:Cirno!
+es:Cirno!
 zh:琪露诺酱！
 
 [Cirno]
 ja:大ちゃん！？
 en:Dai-chan!?
+es:Dai-chan!?
 zh:大酱！？
 
 [Daiyousei]
 ja:助けに来たよ！
 en:I'm here to help!
+es:Llegué para ayudarte!
 zh:我来帮你！
 
 /////////////////////////////////////////////////////////////
@@ -147,49 +154,59 @@ zh:我来帮你！
 [Cirno]
 ja:ぎゃふん！
 en:Geez!
+es:Vaya!
 zh:哇啊！
 
 [Marisa]
 ja:すまん、すまん、ちょっと火力を出しすぎた
 en:Sorry, sorry, I was a little overzealous with the firepower.
+es:Perdón, perdón, me entusiasmé un poco con mis ataques.
 zh:抱歉，抱歉，火力稍微有点过了
 
 [Daiyousei]
 ja:チルノちゃん大丈夫？
 en:Cirno, are you hurt? Are you okay?
+es:Cirno, estas herida? Te encuentras bien?
 zh:琪露诺酱没事吧？
 
 [Cirno]
 ja:いてて、大ちゃんありがとう
 en:Ouch, thanks Dai-chan.
+es:Ow, gracias Dai-chan.
 zh:痛痛痛…谢谢大酱啦
 
 [Cirno]
 ja:そういえば、さっきまで大ちゃんを探していたような
 en:Come to think of it, I think I was just looking for Dai-chan a few minutes ago.
+es:Ahora que me acuerdo, estaba buscando a Dai-chan hace poco.
 zh:说起来 从刚刚开始就一直在找大酱呢
 
 [Cirno]
 ja:なんでだっけ？
-en:Why?
+en:Why are you here?
+es:Por qué estas aquí?
 zh:是为啥来着？
 
 [Daiyousei]
 ja:あはは、それは
-en:Haha, that is.
+en:Haha, that is...
+es:Oh, porque....
 zh:啊哈哈，那个…
 
 [Marisa]
 ja:おいおい、忘れちゃったのか？
 en:Oh, come on, have you forgotten?
+es:Que, ya te olvidaste?
 zh:喂喂，你忘了吗？
 
 [Marisa]
 ja:面白い遊びを思いついたから、これから一緒に遊ぶって
 en:I've come up with a fun game and we're going to play it together.
+es:Se me ocurrió un divertido juego, y lo vamos a jugar juntas.
 zh:想到了一个有趣的游戏，以后一起玩
 
 [Marisa]
 ja:仲間を探していた所だぜ
 en:Where I am looking for a friend!
+es:Uno en donde estoy buscando amigas!
 zh:我正在找同伴呢
