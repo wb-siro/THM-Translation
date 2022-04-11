@@ -1,8 +1,21 @@
+///////////////////////////////////////////////////////////////////////
 ja:獄符「カオスメリーゴーラウンド」
 en:Hell Sign "Chaos Merry-Go-Round"
 es:Signo Infernal "Carrusel Caótico"
 zh:狱符「混沌的旋转木马」
 
+// Marisa
+ja:ゴーラウンドって何だろうな。カオスメリーって言う奴が相当な危険人物であるのは間違いないぜ
+zh:Go Round是什么呢？这个叫混沌玛丽的家伙，一定是个相当危险的人物
+
+// Reimu
+ja:
+zh:
+
+// Inspired by DELTARUNE's Jevil
+// It represents a merry-go-round that moves up and down.
+
+///////////////////////////////////////////////////////////////////////
 ja:「フェイクアポロ」
 en:"Fake Apollo"
 es:"Falso Apolo"
@@ -13,6 +26,15 @@ en:"Apollo Hoax Theory"
 es:"Teoría Conspiratotria de Apolo"
 zh:「阿波罗捏造说」
 
+// Marisa
+ja:月に追い回されるスペルカード。気がつくと追われているのか追っているのか分からなくなるんだよな
+zh:被月球追逐的符卡。回过神来就不知道是在追还是被追了
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
 ja:獄符「ヘルエクリプス」
 en:Hell Sign "Hell Eclipse"
 es:Signo Infernal "Eclipse Infernal"
@@ -22,3 +44,13 @@ ja:獄符「地獄の蝕」
 en:Hell Sign "Eclipse of Hell"
 es:Signo Infernal "Eclipse en el Inferno"
 zh:狱符「地狱之蚀」
+
+// Marisa
+ja:月と太陽を回転させるスペルカード。日食をイメージしてるみたいだが、ここまでの力は妖精とは思えないな
+zh:让月亮和太阳旋转的符卡。虽然好像是日食的印象，但是我不认为妖精拥有如此强大的力量
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
