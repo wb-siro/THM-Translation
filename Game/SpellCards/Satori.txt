@@ -48,7 +48,7 @@ zh:能鲜明体现心灵创伤的符卡。如果不是玩弹幕游戏的话，�
 
 // Reimu
 ja:思ったこと全てが本心とは限らない、そう考えると少しは気楽になれるかもね
-es:
+es:No todo lo que uno piense es necesariamente una verdadera representacion de nuestros sentimientos.
 zh:所想的不一定都是真心，这样想的话可能会比较轻松吧
 
 // Neurology Terminology.
