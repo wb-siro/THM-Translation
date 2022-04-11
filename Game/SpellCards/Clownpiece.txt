@@ -6,7 +6,7 @@ zh:狱符「混沌的旋转木马」
 
 // Marisa
 ja:ゴーラウンドって何だろうな。カオスメリーって言う奴が相当な危険人物であるのは間違いないぜ
-es:Que es un vivo? Este "Caos tio" debe ser muy peligroso...
+es:Por qué es tan vivo? Este "Caos tio" debe ser muy peligroso...
 zh:Go Round是什么呢？这个叫混沌玛丽的家伙，一定是个相当危险的人物
 
 // Reimu
