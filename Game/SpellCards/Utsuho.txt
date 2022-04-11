@@ -16,9 +16,11 @@ zh:核热「核反应失控」
 
 // Marisa
 ja:とてつもなく大きな火玉を生み出すスペルカード。弾幕はこれくらい派手なのがいいよな
+es:Una SpellCard que produce una increiblemente grande bola de fuego. Es muy llamativa!
 
 // Reimu
 ja:あまりにも大きすぎるわよ！自分が小人になったんじゃないかって思ったわ
+es:Es muy grande! Pense que me había convertido en una enana.
 
 ///////////////////////////////////////////////////////////////////////
 
