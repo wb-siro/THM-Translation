@@ -1,0 +1,77 @@
+///////////////////////////////////////////////////////////////////////
+ja:水符「河童のポロロッカ」
+en:Water Sign "Kappa's Pororoca"
+es:Signo de Agua "Pororoca del Kappa"
+zh:水符「河童的涨潮」
+
+ja:水符「河童のフラッシュフラッド」
+en:Water Sign "Kappa's Flash Flood"
+es:Signo de Agua "Inundación Repentina del Kappa"
+zh:水符「河童的暴洪」
+
+ja:水符「河童の幻想大瀑布」
+en:Water Sign "Kappa's Great Illusionary Waterfall"
+es:Signo de Agua "La Gran e Ilusoria Cascada del Kappa"
+zh:水符「河童的幻想大瀑布」
+
+// Marisa
+ja:勢いよく水を押し流すスペルカード。溺れるのは御免だが流される程度ならなかなか面白いな
+zh:有力地冲水的符卡。溺水倒不至于，但是如果被冲走的话倒是挺有趣的
+
+// Reimu
+ja:油断して本当に溺れても知らないわよ、まぁ流されるくらいなら面白そうだけど
+zh:一不小心真的溺水了也不知道啊，不过被冲走的话倒是挺有意思的
+
+///////////////////////////////////////////////////////////////////////
+ja:水符「ウォーターカーペット」
+en:Water Sign "Water Carpet"
+es:Signo de Agua "Alfombra de Agua"
+zh:水符「水毯」
+
+// Marisa
+ja:絶対に汚れないと言う触れ込みのカーペット。自動水洗式らしいが床が大変なことになりそうだ
+zh:据说是绝对不会被弄脏的毯子。好像是自动冲水式的，地板好像会变得很麻烦
+
+// Reimu
+ja:どうせならカーペットだけじゃなくて食器や洋服を洗ってほしいものね、そんな感じの道具があったはずだし
+zh:不只是洗毯子，还可以洗餐具和衣服，应该有这样的工具吧
+
+///////////////////////////////////////////////////////////////////////
+ja:水符「河童スプリンクラーα」
+en:Water Sign "Kappa Sprinkler α"
+es:Signo de Agua "Rociador Kappa α"
+zh:水符「河童的洒水装置α型」
+
+ja:水符「河童スプリンクラーβ」
+en:Water Sign "Kappa Sprinkler β"
+es:Signo de Agua "Rociador Kappa β"
+zh:水符「河童的洒水装置β型」
+
+// Marisa
+ja:火を感知すると水で自動消火してくれる装置。動力の制御が難しいらしく、とてつもない勢いで水が出る
+zh:感知火的话就会用水自动灭火的装置。好像很难控制力量，喷水的气势十分磅礴
+
+// Reimu
+ja:勢いありすぎよ！試作品らしいけど、改良されたら流石に勢いが下がるはずね
+zh:气势太猛了！似乎是试验品，改良后气势就会减少很多吧
+
+// This is an homage to the "怒首領蜂" boss character "火蜂"'s barrage of bullets.
+// Commonly known as a washing machine.
+
+///////////////////////////////////////////////////////////////////////
+ja:水弾「クイックドロー」
+en:Water Bullet "Quick Draw"
+es:Bala de Agua "Desenfunde Rápido"
+
+// Marisa
+ja:いくつもの泡を撃ち抜くスペルカード。そう言えば最近は祭りの時に射的の屋台も始めたみたいだな
+zh:击穿多个泡沫的符卡。这么说来，最近好像在庙会的时候也开始看到射击摊子了呢
+
+// Reimu
+ja:あれって意外と当てるの難しいのよね、紅魔館にある投げて当てる奴は得意なんだけど
+zh:这个意外的难猜呢，红魔馆里的那个能扔能猜的家伙可是很拿手的
+
+// From the target practice at Japanese festival stalls.
+// Reimu is talking about darts.
+
+///////////////////////////////////////////////////////////////////////
