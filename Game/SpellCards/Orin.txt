@@ -6,10 +6,12 @@ zh:醉步「火焰猫乱步」
 
 // Marisa
 ja:マタタビで酔った(?)お燐が駆け回るスペルカード。元から動きが読みにくいがこうなると手がつけられないな
+es:Una SpellCard en donde Orin se intoxica con Matatabi. Sus movimientos ya son dificiles de leer, pero con esto lo son aún mas.
 zh:喝醉了的（？）阿燐奔跑的符卡。本来动作就很难判断，这么一来就没法下手了
 
 // Reimu
 ja:ふらふら歩くのを千鳥足って言うけど、元は雛を守る親鳥の行動から来ているみたいね
+es:Al paso tambaleante se le conoce "Caminar de Mil Pasos", y lo usan aves para cuidar a sus polluelos.
 zh:走路摇摇晃晃的动作叫“千步走”，本来是保护雏鸟的亲鸟的行为
 
 ///////////////////////////////////////////////////////////////////////
@@ -20,10 +22,12 @@ zh:妖怪「火焰的车轮」
 
 // Marisa
 ja:燃え盛る車輪に襲われるスペルカード。青い炎は死体が燃えた時に発生するものらしいが普通に熱い
+es:SpellCard que ataca con una rueda en llamas. Las azules son de cuerpos incinerados, y son muy calientes.
 zh:被燃烧的车轮袭击的符卡。蓝色的火焰是尸体燃烧时产生的，通常很热
 
 // Reimu
 ja:青い炎といえば人魂があるけど、あれは冷たくて涼しいわね。ちなみに人魂は鬼火や狐火とも言われているわ
+es:Las llamas azules son generada por el alma humana, tambien conocidas como Onibi o Kistunebi.
 zh:说到青色的火焰就想起人魂呢，不过那东西冷冷的凉凉的。顺带一提，人魂也被称作鬼火或狐火哦
 
 ///////////////////////////////////////////////////////////////////////
@@ -39,10 +43,12 @@ zh:尸灵「食人怨灵」
 
 // Marisa
 ja:怨霊を召喚するスペルカード。怨霊は妖怪に取り憑くとヤバいと聞いたが未だに見たことがないな
+es:Una SpellCard que invoca físicamente a un rencor. He escuchado que son muy poderosos cuando poseidos por youkai, pero nunca lo he visto.
 zh:召唤怨灵的符卡。听说怨灵附在妖怪身上会很危险，还没见过呢
 
 // Reimu
 ja:精神的にかなり弱ってる状態じゃないと難しいわよ。それになんだかんだで地上には見張り役も多いしね
+es:Serían dificiles, si no tuvieran un estado mental frágil. Siempre he sentido gente mirarnos desde bajo el suelo.
 zh:如果不是精神上相当脆弱的状态的话就很难了。而且总觉得地面上监视的人也很多
 
 ///////////////////////////////////////////////////////////////////////
