@@ -6,10 +6,12 @@ zh:表象「弹幕偏执症」
 
 // Marisa
 ja:妄想から生まれた弾幕に囚われるスペルカード。何かに支配されるのはあまり気分のいいものじゃないな
+es:Una SpellCard acerca de estar atrapada en un aluvión de delirios. No es algo cómodo sentirse controlado por algo.
 zh:由妄想产生的弹幕囚禁的符卡。被支配可不是什么好事啊
 
 // Reimu
 ja:妄想でもあると思うと、それはその人にとって実在するのとなんら変わりないわ
+es:Aunque creas que es un delirio, no deja de ser real para la persona que los siente.
 zh:一想到这是妄想，对这家伙来说就等于真实存在
 
 ///////////////////////////////////////////////////////////////////////
@@ -20,10 +22,12 @@ zh:无意识「恋之爆击」
 
 // Marisa
 ja:無差別なハート爆撃をお見舞いされるスペルカード。せっかくならハートより星型の爆撃がいいぜ
+es:Una SpellCard que bombardea con corazones. Preferiría ser bombardeada con estrellas que con corazones!
 zh:无差别的心弹轰炸的符卡。好不容易来一次，星弹轰炸效果比心弹轰炸好
 
 // Reimu
 ja:ハート型も星型も尖ってる部分があって痛そうね...私は賽銭型がいいわ
+es:Tanto las estrellas como los corazones tienen puntas que duelen... Preferiría ser bombardeada por dinero.
 zh:心弹和星弹都有尖尖的部分，看起来很痛呢..我喜欢塞钱型的
 
 // From Twitter a.k.a. "Fabo Baku"
@@ -37,10 +41,12 @@ zh:本能「本我的解放」
 
 // Marisa
 ja:無意識のうちに大量のハートを放つスペルカード。避けるこちらは大変だが本人はとても幸せそうだ
+es:Una SpellCard que, inconscientemente, dispara una gran cantidad corazones. Evitarlos es dificil, pero al menos Koishi parece feliz.
 zh:在无意识中释放出大量的心弹的符卡。避开这个很辛苦，但本人看起来很幸福
 
 // Reimu
 ja:相手が幸せそうだとこっちもいい気分になるわね、この大量の弾幕さえなければ
+es:Se sentiría bien verla feliz, si no fuera por la cantidad masiva de balas.
 zh:如果对方看起来很幸福的话，我也会心情很好，只要没有这么多的弹幕
 
 ///////////////////////////////////////////////////////////////////////
@@ -51,10 +57,12 @@ zh:复燃「恋爱的埋火」
 
 // Marisa
 ja:埋火とは火が消えないように灰の中に埋めた炭火のことらしい。それにしては燃え過ぎな気もする
+es:Un fuego enterrado es aquel fuego de carbón cubierto por cenizas, para que no se apague. Es un poco exagerado, yo creo.
 zh:埋火似乎是为了不让火熄灭而埋在灰中的炭火。那样的话也有点过火了
 
 // Reimu
 ja:恋い焦がれるって言うくらいだし、埋火ぐらいが丁度いいのかもね、燃え過ぎな気もするけど
+es:Es como estar enamorada de alguien, donde tal vez un "fuego enterrado" sea lo correcto.
 zh:都说要把恋情烧得焦灼了，也许埋火才刚刚好呢，我也觉得烧过头了
 
 ///////////////////////////////////////////////////////////////////////
@@ -65,10 +73,12 @@ zh:虚像「极端心盲者」
 
 // Marisa
 ja:脳内で映像をイメージできない状態をアファンタジアと言うらしい。どの辺りがハイパーなんだろうな
+es:Cuando no puedes visualizar imagenes, se llama Afantasia. Me pregunto porqué será hiper.
 zh:脑内无法想象影像的状态被称为幻想曲。哪里是最好的呢
 
 // Reimu
 ja:何も思い浮かべられない状態ってところかしら？何も考えないって結構難しいわよね
+es:Será posible pensar en nada? Se me hace bastante dificil pensar que se pueda.
 zh:是什么都不想的状态吗？什么都不想是很难的
 
 // This is a coined word. Satori and its counterpart
