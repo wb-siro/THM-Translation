@@ -1,3 +1,4 @@
+///////////////////////////////////////////////////////////////////////
 ja:核熱「ニュークリアフュージョン」
 en:Atomic Fire "Nuclear Fusion"
 es:Fuego Atómico "Fusión Nuclear"
@@ -12,6 +13,14 @@ ja:核熱「核反応制御不能」
 en:Atomic Fire "Uncontainable Nuclear Reaction"
 es:Fuego Atómico "Reacción Nuclear Incontenible"
 zh:核热「核反应失控」
+
+// Marisa
+ja:とてつもなく大きな火玉を生み出すスペルカード。弾幕はこれくらい派手なのがいいよな
+
+// Reimu
+ja:あまりにも大きすぎるわよ！自分が小人になったんじゃないかって思ったわ
+
+///////////////////////////////////////////////////////////////////////
 
 ja:爆符「プチフレア」
 en:Explosion Sign "Petit Flare"
