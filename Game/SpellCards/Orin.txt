@@ -43,7 +43,7 @@ zh:尸灵「食人怨灵」
 
 // Marisa
 ja:怨霊を召喚するスペルカード。怨霊は妖怪に取り憑くとヤバいと聞いたが未だに見たことがないな
-es:Una SpellCard que invoca físicamente a espíritus vengativos. He escuchado que son muy poderosos cuando poseidos por youkai, pero nunca lo he visto.
+es:Una SpellCard que invoca físicamente a espíritus vengativos. He escuchado que son muy poderosos cuando unidos a un youkai, pero nunca lo he visto.
 zh:召唤怨灵的符卡。听说怨灵附在妖怪身上会很危险，还没见过呢
 
 // Reimu
