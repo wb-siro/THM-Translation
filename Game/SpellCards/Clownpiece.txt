@@ -1,11 +1,12 @@
 ///////////////////////////////////////////////////////////////////////
 ja:獄符「カオスメリーゴーラウンド」
 en:Hell Sign "Chaos Merry-Go-Round"
-es:Signo Infernal "Carrusel Caótico"
+es:Signo Infernal "Caos Tiovivo"
 zh:狱符「混沌的旋转木马」
 
 // Marisa
 ja:ゴーラウンドって何だろうな。カオスメリーって言う奴が相当な危険人物であるのは間違いないぜ
+es:Que es un vivo? Este "Caos tio" debe ser muy peligroso...
 zh:Go Round是什么呢？这个叫混沌玛丽的家伙，一定是个相当危险的人物
 
 // Reimu
@@ -28,6 +29,7 @@ zh:「阿波罗捏造说」
 
 // Marisa
 ja:月に追い回されるスペルカード。気がつくと追われているのか追っているのか分からなくなるんだよな
+es:Una SpellCard acerca de la Luna. Si las persigues o te persiguen, esa es la pregunta.
 zh:被月球追逐的符卡。回过神来就不知道是在追还是被追了
 
 // Reimu
@@ -47,6 +49,7 @@ zh:狱符「地狱之蚀」
 
 // Marisa
 ja:月と太陽を回転させるスペルカード。日食をイメージしてるみたいだが、ここまでの力は妖精とは思えないな
+es:Una SpellCard que hace girar la Luna y el Sol. Pareciera ser un eclipse solar, pero no creo que un hada tenga ese poder.
 zh:让月亮和太阳旋转的符卡。虽然好像是日食的印象，但是我不认为妖精拥有如此强大的力量
 
 // Reimu
