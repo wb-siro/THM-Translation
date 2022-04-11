@@ -1,3 +1,4 @@
+///////////////////////////////////////////////////////////////////////
 ja:波符「赤眼催眠(マインドシェイカー)」
 en:Wave Sign "Mind Shaker (Red-Eyed Hypnosis)"
 es:Signo de Onda "Agitador Mental (Hipnosis de Ojos Rojos)"
@@ -8,12 +9,42 @@ en:Illusion Wave "Mind Blowing (Red-Eyed Hypnosis)"
 es:Onda Ilusoria "Explosion Mental (Hipnosis de Ojos Rojos)"
 zh:幻波「赤眼催眠(Mind Blowing)」
 
+// Marisa
+ja:視覚情報を錯乱させ弾幕を二重に見せるスペルカード。二重に見えるだけと思いきやしっかり当たる
+zh:一张能混淆视觉信息，让弹幕看起来加倍的符卡。我认为它只是看起来加倍而已
+
+// Reimu
+ja:弾は分裂している様に見えるけど、実際は見えないように撃ってるだけかもね
+zh:子弹看起来像是分裂了，实际上可能只是因为看不见而射击而已
+
+///////////////////////////////////////////////////////////////////////
 ja:「幻朧月睨(ルナティックレッドアイズ)」
 en:Lunatic Red Eyes (Stare of the Hazy Phantom Moon)
 es:Lunáticos Ojos Rojos (Mirada de la Nebulosa Luna Fantasmal)
 zh:「幻胧月睨(Lunatic Red Eyes)」
 
+// Marisa
+ja:一時的に弾幕の位相を変え干渉できなくするスペルカード。消える事が分かっていれば対処は可能だ
+zh:临时改变弹幕的相位使之不受干扰的符卡。如果知道弹幕会消失的话，就可以应对它
+
+// Reimu
+ja:消えるということはそこに有るという事、見えないだけじゃ避けるのは難しくないのよ
+zh:是在那里消失的，只是当做看不见的话回避也不难
+
+///////////////////////////////////////////////////////////////////////
 ja:幻兎「月輪死弾(ルナティックルーレット)」
 en:Illusion Rabbit "Lunatic Roulette (Moon Death Bullet)"
 es:Conejo Ilusorio "Ruleta Lunática (Mortal Bala Lunar)"
 zh:幻兔「月轮死弹（Lunatic Roulette）」
+
+// Marisa
+ja:輝夜のようなカラフルな弾を織り交ぜてくる。団子ではないかという噂があるが、食えるのか...？
+zh:像辉夜一样的彩色子弹穿插在一起一样。有传言说可能是团子，能吃吗...？
+
+// Reimu
+ja:流石にこれは団子じゃないと思う、食べられる色をしていないし
+zh:果然，我觉得这不是团子，也没有能吃的颜色
+
+// In "東方儚月抄" Kaguya had Reisen make seven-colored dumplings.
+
+///////////////////////////////////////////////////////////////////////
