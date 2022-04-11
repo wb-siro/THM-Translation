@@ -17,13 +17,14 @@ zh:核热「核反应失控」
 // Marisa
 ja:とてつもなく大きな火玉を生み出すスペルカード。弾幕はこれくらい派手なのがいいよな
 es:Una SpellCard que produce una increiblemente grande bola de fuego. Es muy llamativa!
+zh:能产生巨大火球的符卡。弹幕就是要这么华丽才好啊
 
 // Reimu
 ja:あまりにも大きすぎるわよ！自分が小人になったんじゃないかって思ったわ
 es:Es muy grande! Pense que me había convertido en una enana.
+zh:太大了！我还以为自己变成了小人呢
 
 ///////////////////////////////////////////////////////////////////////
-
 ja:爆符「プチフレア」
 en:Explosion Sign "Petit Flare"
 es:Signo de Explosión "Pequeña Llamarada"
@@ -44,6 +45,15 @@ en:Explosion Sign "Peta Flare"
 es:Signo de Explosión "Peta Llamarada"
 zh:爆符「千兆耀斑」
 
+// Marisa
+ja:火の玉をいくつも飛ばすスペルカード。名称によって火力の程度を表すとは参考になるな
+zh:发射出几个火球的符卡。用名称来表示火力的程度是有参考价值的
+
+// Reimu
+ja:単位を決めると規模を想像できるようになる。だから力が制御しやすくなるんじゃないかしら？
+zh:定了单位就能想象规模了。所以力量不是很容易控制吗？
+
+///////////////////////////////////////////////////////////////////////
 ja:「地獄の人工太陽」
 en:"Hell's Artificial Sun"
 es:"Sol Artificial del Infierno"
@@ -53,3 +63,13 @@ ja:「サブタレイニアンサン」
 en:"Subterranean Sun"
 es:"Sol Subterraneo"
 zh:「地底太阳」
+
+// Marisa
+ja:太陽を作り出し重力で周囲を引き寄せるスペルカード。太陽まで作ってしまうとは原子の力って凄いな
+zh:创造出太阳以重力吸引周围的符卡。原子的力量真大，连太阳都能创造出来
+
+// Reimu
+ja:太陽ができると重力も作られる？以前どこかで聞いた気もするけどよくわからないのよね
+zh:有太阳的话也能产生重力？以前好像在哪里听到过，但是不太清楚呢
+
+///////////////////////////////////////////////////////////////////////
