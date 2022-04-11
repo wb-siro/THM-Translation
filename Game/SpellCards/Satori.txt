@@ -11,10 +11,12 @@ zh:回忆「恐怖催眠术」
 
 // Marisa
 ja:トラウマを呼び覚ますスペルカード。さとりは過去の記憶までは読めないのでこうして思い出させる必要があるようだ
+es:Una SpellCard que despierta traumas. Sin embargo, Satori parece incapaz de recordar el pasado, recordemosle?
 zh:能唤醒创伤的符卡。觉无法读到过去的记忆，所以似乎有必要这样提醒她
 
 // Reimu
 ja:それなら好きなものを思い浮かべれば、それが出てくるのかしら、今度やってみよっと
+es:En ese caso, si piensas en algo que te gusta, aparecería? Tengo que intentarlo alguna vez.
 zh:那样的话，只要想到喜欢的东西，就会出现吗？下次试着做一下吧
 
 ///////////////////////////////////////////////////////////////////////
@@ -25,10 +27,12 @@ zh:脑符「脑指纹测谎法」
 
 // Marisa
 ja:恐怖の記憶を爆発させるスペルカード。記憶がなくても脳はトラウマに反応してしまうと言う、本当なのか？
+es:Una SpellCard que explota recuerdos aterradores. Es cierto que el cerebro reacciona al trauma, incluso uno sin memorias?
 zh:将恐怖的记忆爆发的符卡。即使没有记忆，大脑也会对精神创伤作出反应，这是真的吗？
 
 // Reimu
 ja:さとりでもそこまで分かるのかしら、どちらかというと妹の方が詳しそうよね
+es:Me pregunto si Satori sabe de ello, pero su hermana parece estar mas familiarizada.
 zh:就算是觉也能明白这些吧，要说起来妹妹好像更详细呢
 
 ///////////////////////////////////////////////////////////////////////
@@ -39,10 +43,12 @@ zh:实像「超级幻想家」
 
 // Marisa
 ja:トラウマを鮮明に具現化するスペルカード。弾幕ごっこじゃなければ楽しい記憶を具現化してほしいな
+es:Una SpellCard que encarna vívidamente el trauma. Mientras no estés jugando juegos danmaku, intenta traer recuerdos felices al mundo.
 zh:能鲜明体现心灵创伤的符卡。如果不是玩弹幕游戏的话，希望能将快乐的记忆具现化
 
 // Reimu
 ja:思ったこと全てが本心とは限らない、そう考えると少しは気楽になれるかもね
+es:
 zh:所想的不一定都是真心，这样想的话可能会比较轻松吧
 
 // Neurology Terminology.
