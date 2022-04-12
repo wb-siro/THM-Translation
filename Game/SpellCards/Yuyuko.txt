@@ -1,0 +1,77 @@
+///////////////////////////////////////////////////////////////////////
+ja:冥符「常夜桜」
+en:Nether Sign "Endless Evening Cherry Blossoms"
+es:Signo del Inframundo "Interminables Tardes de Cerezos Floridos"
+zh:冥符「常夜樱」
+
+// Marisa
+ja:冥界の桜は本当に綺麗なんだよな。神社の桜も綺麗だがまた違った美しさを感じるな
+zh:冥界的樱花真的很美啊。神社的樱花也很美，但我觉得是另一种美
+
+// Reimu
+ja:綺麗だけど何故かしんみりしちゃうのよね、やっぱり桜を見るなら盛り上がらなきゃ
+zh:虽然很漂亮，但不知为何却很寂静呢，果然要看樱花的话就必须要热闹起来
+
+///////////////////////////////////////////////////////////////////////
+ja:符牒「バタフライコール」
+en:Symbol "Butterfly Call"
+es:Símbolo "Llamada a las Mariposas"
+zh:符牒「呼唤蝶群」
+
+// Marisa
+ja:誘うように蝶が舞うスペルカード。昔は蝶と言うと不幸や不吉なイメージがあったらしい
+zh:引诱蝴蝶飞舞的符卡。以前一提到蝴蝶就会有不幸、不吉利的印象
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
+ja:桜符「西行桜吹雪」
+en:Cherry Blossom Sign "Saigyou Cherry Blossom Blizzard"
+es:Signo de Cerezo Florido "Tormenta de Pétalos de Cerezo de Saigyouji"
+zh:樱符「西行樱吹雪」
+
+ja:桜符「桜吹雪地獄」
+en:Cherry Blossom Sign "Cherry Blossom Blizzard Hell"
+es:Signo de Cerezo Florido "Tormenta Infernal de Pétalos de Cerezo"
+zh:樱符「樱吹雪地狱」
+
+// Marisa
+ja:これでもかと桜を吹雪かせるスペルカード。桜のように見えて当たるとめちゃくちゃ痛い
+zh:也是让樱花飘雪的符卡。看起来像樱花，碰到了会痛得要命
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
+ja:「反魂蝶 -参分咲-」
+en:"Resurrection Butterfly -30% Reflowering-"
+es:"Mariposa de Resurreción -Refloración al 30%-"
+zh:「反魂蝶 -三分咲-」
+
+ja:「反魂蝶 -伍分咲-」
+en:"Resurrection Butterfly -50% Reflowering-"
+es:"Mariposa de Resurreción -Refloración al 50%-"
+zh:「反魂蝶 -五分咲-」
+
+ja:「反魂蝶 -八分咲-」
+en:"Resurrection Butterfly -80% Reflowering-"
+es:"Mariposa de Resurreción -Refloración al 80%-"
+zh:「反魂蝶 -八分咲-」
+
+ja:「西行寺無余涅槃」
+en:"Saigyouji Parinirvana"
+es:"Parinirvana de Saigyouji"
+zh:「西行寺无余涅槃」
+
+// Marisa
+ja:美しさで言えば一つの完成形とも言えるスペルカード。見た時の記憶があやふやで実は夢だった気もするな
+zh:从美感上来说，符卡可以说是一种完成形式。发动符卡时候的记忆很模糊，好像是在做梦
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
