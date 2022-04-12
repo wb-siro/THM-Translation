@@ -1,0 +1,48 @@
+///////////////////////////////////////////////////////////////////////
+ja:力業「大江山嵐」
+en:Feat of Strength "Storm on Mt. Ooe"
+es:Hazaña de Fuerza "Tormenta en el Monte Ooe"
+zh:力业「大江山岚」
+
+ja:力業「大江山颪」
+en:Feat of Strength "Wind Blowing Down from Mt. Ooe"
+es:Hazaña de Fuerza "Viento Soplando desde el Monte Ooe"
+zh:力业「大江山颪」
+
+// Marisa
+ja:凄まじい突風が吹きつける弾幕。こんな感じに星を流してみるのもなかなか面白そうだな
+zh:狂风大作的弹幕。像这样试着放星星也很有意思啊
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
+ja:鬼声「壊滅の咆哮」
+en:Oni's Voice "Annihilating Roar"
+es:Voz de Oni "Rugido Aniquilante"
+zh:鬼声「坏灭的咆哮」
+
+// Marisa
+ja:大声だけで周囲を破壊するスペルカード。大声大会なるものがあるらしいが耳栓どころの話じゃないな
+zh:只用响亮的声音就能将周围一切破坏的符卡。好像有什么大声大会，这可不是戴不戴耳塞的事
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
+ja:四天王奥義「三歩必殺」
+en:Big Four Arcanum "Knock Out In Three Steps"
+es:Cuatro Grandes Arcanas "Nocaut en Tres Pasos"
+zh:四天王奥义「三步必杀」
+
+// Marisa
+ja:足を踏み鳴らす度に高密度の弾幕を展開する技。避ける為の隙を敢えて作っている辺り、底知れなさを感じるぜ
+zh:每次跺脚的时候会展开高密度的弹幕的符卡。为了躲避而故意制造空隙，真是深不可测啊
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
