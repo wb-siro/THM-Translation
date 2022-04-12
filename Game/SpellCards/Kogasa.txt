@@ -1,0 +1,75 @@
+///////////////////////////////////////////////////////////////////////
+ja:大輪「からかさ後光」
+en:Large Ring "Umbrella Halo"
+es:Gran Anillo "Halo de Paraguas"
+zh:大轮「唐伞的光晕」
+
+ja:大輪「ハロウフォゴットンワールド」
+en:Large Ring "Hello Forgotten World"
+en:Gran Anillo "Hola Mundo Olvidado"
+zh:大轮「向被遗忘的世界问好」
+
+// Marisa
+ja:リング状の虹を発生させ攻撃するスペルカード。傘ってなぜかくるくる回したくなるよな
+zh:生成环状彩虹进行攻击的符卡。不知道为什么，伞总想让人旋转
+
+// Reimu
+ja:傘って自分の好きな柄を選べるから、自然と愛着が湧くのよね、雨の日が少しだけ楽しくなるわ
+zh:
+
+///////////////////////////////////////////////////////////////////////
+ja:傘符「パラソルスターシンフォニー」
+en:Umbrella Sign "Parasol Star Symphony"
+es:Signo de Paraguas "Sinfonía Estelar del Quitasol"
+zh:伞符「雨伞的星之交响」
+
+ja:傘符「パラソルスターメモリーズ」
+en:Umbrella Sign "Parasol Star Memories"
+es:Signo del Paraguas "Memorias Estelares del Quitasol"
+zh:伞符「雨伞的星之追忆」
+
+// Marisa
+ja:何処からともなく傘を振り撒くスペルカード。全部同じ柄なのはいまの流行を反映しているらしい
+zh:不知从哪里撒出雨伞的符卡。全都是同样的图案似乎反映了现在的流行趋势
+
+// Reimu
+ja:最近は同じ柄でも自分の傘だとわかるように、手元に名前を入れたり好きな模様を入れるのが密かにブームになっているわね
+zh:
+
+///////////////////////////////////////////////////////////////////////
+ja:傘芸「アンブレラソング」
+en:Umbrella Art "Umbrella Song"
+es:Arte del Paraguas "Canciín del Paraguas"
+zh:伞符「雨伞的星之追忆」
+
+ja:妖楽「オープン・ザ・アンブレラ」
+en:Youraku "Open the Umbrella"
+es:Youkai "Abre el Paraguas"
+zh:妖乐「打开雨伞」
+
+// Marisa
+ja:どうやら最近は驚かせ方を色々と模索しているらしい、方向性が違うと思うのは気のせいじゃないよな
+zh:看来最近好像在摸索各种各样令人吃惊的方法，觉得方向不同应该不是心理作用吧
+
+// Reimu
+ja:里で見かけたときは思わず転びそうになったわ、突っ込み所しかないけれど一応"驚かせて"いるし、まぁほどほどにね？
+zh:
+
+///////////////////////////////////////////////////////////////////////
+ja:虹符「アンブレラサイクロン」
+en:Rainbow Sign "Umbrella Cyclone"
+es:Signo Arcoiris "Ciclón de Paraguas"
+
+ja:虹符「アンブレラストーム」
+en:Rainbow Sign "Umbrella Storm"
+es:Signo Arcoiris "Tormenta de Paraguas"
+
+// Marisa
+ja:そういえば小傘は鍛冶も得意なんだよな、里では正体不明の超凄腕鍛冶職人がいるって凄い噂だぜ
+zh:
+
+// Reimu
+ja:そうなのよね、この前は包丁を研いでもらったんだけど買ったときよりも切れ味が良くなって驚いちゃった
+zh:
+
+///////////////////////////////////////////////////////////////////////
