@@ -119,7 +119,8 @@ zh:也就是说，你知道她在哪里？
 [Marisa]
 ja:まぁ、そんなところだ
 en:Well, that's about it.
-zh:Bueno, algo asi.
+es:Bueno, algo asi.
+zh:嘛…算是吧
 
 [Cirno]
 ja:わかった！弾幕ごっこで勝てばいいんでしょ、望むところだ！
