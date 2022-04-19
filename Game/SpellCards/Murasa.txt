@@ -11,3 +11,9 @@ es:Signo del Puerto "Muelle del Barco Fantasma"
 ja:湊符「幽霊船永久停泊」
 en:Harbor Sign "Phantom Ship's Eternal Anchorage"
 es:Signo del Puerto "Anclaje Eterno del Banco Fantasma"
+
+ja:溺符「ディープヴォーテックス」
+en:Drowning Sign "Deep Vortex"
+
+ja:溺符「シンカブルヴォーテックス」
+en:Drowning Sign "Sinkable Vortex"
