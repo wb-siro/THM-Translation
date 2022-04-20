@@ -1,0 +1,48 @@
+///////////////////////////////////////////////////////////////////////
+ja:狗符「スウィートバイト」
+en:Dog Sign "Sweet Bite"
+es:Signo Perruno "Dulce Mordida"
+zh:狗符「甜蜜之咬」
+
+// Marisa
+ja:鋭い牙で攻撃するスペルカード。何処から観ているのか山に入るとすごい勢いで駆けつけてくる
+zh:用尖锐的牙攻击的符卡。不知从哪里看，一进山就来势汹汹
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
+ja:山窩「エクスペリーズカナン」
+en:Mountain Nomad "Expellee's Canaan"
+es:Nómada de la Montaña "Expulsada de Canaán"
+zh:山窝「被逐出的迦南之地」
+
+// Marisa
+ja:刀でとんでもなく大きな弧を描くスペルカード。何度も回転して目が回らないのか心配だな
+zh:用刀画出不可思议的大弧线的符卡。好担心转了这么多次眼睛转不过来啊
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
+ja:狗符「妖山風陣」
+en:Dog Sign "Wind Formation of Youkai Mountain"
+es:Signo Perruno "Formaciones Ventosas en la Montaña Youkai"
+zh:狗符「妖山风阵」
+
+ja:狗符「妖山風神」
+en:Dog Sign "Wind God of Youkai Mountain"
+es:Signo Perruno "Dios del Viento de la Montaña Youkai"
+zh:狗符「妖山风神」
+
+// Marisa
+ja:巨大な旋風で侵入者を追い返すスペルカード。あくまで見張りが目的なので、すぐ何処かに行くんだよな
+zh:用刀描绘巨大弧线的符卡。好几次转都转不过来，好担心啊
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
