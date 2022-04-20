@@ -1,0 +1,63 @@
+///////////////////////////////////////////////////////////////////////
+ja:岐符「天の八衢」
+en:Crossroad Sign "Crossroads of Heaven"
+es:Signo de Cruces "Cruce en el Paraíso"
+zh:岐符「天之八衢」
+
+ja:岐符「サルタクロス」
+en:Crossroad Sign "Saruta Cross"
+es:Signo de Cruces "Cruz de Saruta"
+zh:岐符「猿田彦神之岔路」
+
+// Marisa
+ja:周囲を弾幕で囲うスペルカード。正面は道になっているが何処に案内されるんだろうな
+zh:四周被弹幕包围的符卡。虽然正面是路，但会被带到哪里去呢？
+
+// Reimu
+ja:道は"未知"と掛けてあるって、そういう語呂合わせ好きそうよね
+zh:道路上挂着“未知”，好像很喜欢这样的谐音呢
+
+///////////////////////////////////////////////////////////////////////
+ja:塞符「山神渡御」
+en:Blockade Sign "Mountain God's Procession"
+es:Signo de Bloqueo "Desfile en la Montaña de Dios"
+zh:塞符「山神渡御」
+
+ja:塞符「天孫降臨」
+en:Blockade Sign "Advent of the Divine Grandson"
+es:Signo de Bloqueo "Venida del Nieto Divino"
+zh:塞符「天孙降临」
+
+ja:塞符「天上天下の照國」
+en:Blockade Sign "Terukuni Shining Through Heaven and Earth"
+es:Signo de Bloqueo "Terukuni Brillando a través del Cielo y la Tierra"
+zh:塞符「天上天下的照国」
+
+// Marisa
+ja:塞（さえ）の神は悪霊などの侵入を遮る神様だが、道案内や道中安全の神様でもあるらしい
+zh:塞神是阻挡恶灵侵入的神，但似乎也是指路和保卫旅程安全的神
+
+// Reimu
+ja:神様って性質が増えたり減ったり変化したり、案外いい加減な面もあるのよね
+zh:神的性格有时增加，有时减少，有时变化，其实也有马马虎虎的一面呢
+
+///////////////////////////////////////////////////////////////////////
+ja:「幻想風靡」
+en:"Illusionary Dominance"
+es:"Dominancia Ilusoria"
+zh:「幻想风靡」
+
+ja:「無双風神」
+en:"Peerless Wind God"
+es:"Diosa del Viento Sin Igual"
+zh:「无双风神」
+
+// Marisa
+ja:超高速で飛び回るスペルカード。ミニ八卦炉で加速したり色々試したが、この速度を出すのは難しいぜ
+zh:超高速飞行的符卡。我试过用迷你八卦炉加速，但很难达到这个速度
+
+// Reimu
+ja:天狗にも色々種類があるけれど、文は烏天狗ね。天狗の中でも更にスピードに秀でているわ
+zh:天狗也有各种各样的种类，但是文是鸦天狗呢。在天狗中也更擅长速度
+
+///////////////////////////////////////////////////////////////////////
