@@ -1,3 +1,4 @@
+///////////////////////////////////////////////////////////////////////
 ja:純符「ピュアリーバレットヘル」"
 en:Pure Sign "Purely Bullet Hell"
 es:Signo de Pureza "Infierno de Balas Puro"
@@ -8,6 +9,15 @@ en:Pure Sign "A Pristine Danmaku Hell"
 en:Signo de Pureza "Un Pristino Infierno Danmaku"
 zh:纯符「纯粹的弹幕地狱」
 
+// Marisa
+ja:ランダムに弾幕を展開するスペルカード。スペルカードとしての特徴や派手さはないが純粋に難しい
+zh:随机发射弹幕的符卡。没有符卡的特征以及华丽，只是纯粹的很难
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
 ja:「原始の神霊界」
 en:"Primordial Divine Spirit World"
 es:"Primordial y Divino Mundo Espiritual"
@@ -18,7 +28,26 @@ en:"Present-Day Divine Spirit World"
 es:"Actual y Divino Mundo Espiritual"
 zh:「现代的神灵界」
 
+// Marisa
+ja:神霊界と聞くと静かで徳の高そうな場所に感じるが、幻想郷の神様を見ていると案外賑やかだったりしそうだな
+zh:随机发射弹幕的符卡。没有符卡的特征以及华丽，只是纯粹的很难
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
 ja:「終わりなき厭悪」
 en:"Endless Evil"
 es:"Maldad Sinfin"
 zh:「无止境的厌恶」
+
+// Marisa
+ja:大量の弾幕が襲いかかってくるスペルカード。欲から生まれる神霊も居たが、これも似たようなものなのか
+zh:大量弹幕袭击过来的符卡。也有一种从欲望之中诞生的神灵，这也是类似的东西吗
+
+// Reimu
+ja:
+zh:
+
+///////////////////////////////////////////////////////////////////////
