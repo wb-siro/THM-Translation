@@ -15,3 +15,6 @@ en:Drowning Sign "Deep Vortex"
 
 ja:溺符「シンカブルヴォーテックス」
 en:Drowning Sign "Sinkable Vortex"
+
+ja:錨符「深海キャプテン」
+en:Anchor Sign "Deep Sea Captain"
