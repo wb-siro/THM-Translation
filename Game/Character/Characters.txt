@@ -115,3 +115,6 @@ es:Daiyousei
 ja:村紗水蜜
 en:Minamitsu Murasa
 es:Minamitsu Murasa
+
+ja:フランドール・スカーレット
+en:Flandre Scarlet
