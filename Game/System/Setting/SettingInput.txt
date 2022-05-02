@@ -15,9 +15,5 @@ en:Touch the screen at two points to use a bomb.
 ja:セミオート
 en:Semi-Automatic
 
-// 2 Lines
-ja:画面から指を離している間に被弾すると
-ja:自動的にボムを使用します。
-
-en:If you are hit while your finger is off the screen 
-en:Automatically uses bombs.
+ja:画面から指を離している間に被弾すると自動的にボムを使用します。
+en:If you are hit while keeping your finger off the screen, the bomb is automatically used.
