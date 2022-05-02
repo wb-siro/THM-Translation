@@ -1,0 +1,23 @@
+ja:入力感度
+en:Input sensitivity
+es:Sensibilidad de Movimiento
+zh:滑动灵敏度
+
+ja:ボムの使用方法
+en:How to use bombs
+
+ja:マニュアル
+en:Manual
+
+ja:画面を2点タッチするとボムを使用します。
+en:Touch the screen at two points to use a bomb.
+
+ja:セミオート
+en:Semi-Automatic
+
+// 2 Lines
+ja:画面から指を離している間に被弾すると
+ja:自動的にボムを使用します。
+
+en:If you are hit while your finger is off the screen 
+en:Automatically uses bombs.

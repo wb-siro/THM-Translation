@@ -1,4 +1,0 @@
-ja:入力感度
-en:Input sensitivity
-es:Sensibilidad de Movimiento
-zh:滑动灵敏度
