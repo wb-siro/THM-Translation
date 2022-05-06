@@ -39,4 +39,4 @@ ru:Russian
 zh:Chinese  
 ~~~
 # 
-In-game text for the Touhou secondary game "Touhou Maroku".
+In-game text for the Touhou secondary game "Touhou Madouroku".
