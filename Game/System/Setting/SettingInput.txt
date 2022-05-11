@@ -17,3 +17,9 @@ en:Semi-Automatic
 
 ja:画面から指を離している間に被弾すると自動的にボムを使用します。
 en:If you are hit while keeping your finger off the screen, the bomb is automatically used.
+
+ja:自動リトライ
+en:Automatic Retry
+
+ja:無し
+en:None
