@@ -35,6 +35,7 @@ zh:语言
 
 ja:広告解除
 en:Store
+es:Tienda
 
 ja:不具合・要望
 en:Reports
