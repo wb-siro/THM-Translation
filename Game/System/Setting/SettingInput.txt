@@ -5,21 +5,28 @@ zh:滑动灵敏度
 
 ja:ボムの使用方法
 en:How to use bombs
+es:Como usar Bombas
 
 ja:マニュアル
 en:Manual
+es:Manualmente
 
 ja:画面を2点タッチするとボムを使用します。
 en:Touch the screen at two points to use a bomb.
+es:Toca la pantalla en dos partes para usar una bomba.
 
 ja:セミオート
 en:Semi-Automatic
+es:Semi-Automaticamente
 
 ja:画面から指を離している間に被弾すると自動的にボムを使用します。
 en:If you are hit while keeping your finger off the screen, the bomb is automatically used.
+es:Si eres alcanzado, pero mantienes al menos un dedo en la pantalla, la bomba se usa automáticamente.
 
 ja:自動リトライ
 en:Automatic Retry
+es:Reintentos Automáticos
 
 ja:無し
 en:None
+es:No usar
