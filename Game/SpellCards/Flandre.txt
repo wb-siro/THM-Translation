@@ -1,21 +1,31 @@
 ///////////////////////////////////////////////////////////////////////
 ja:禁忌「クランベリートラップ」
 en:Taboo "Cranberry Trap"
+es:Taboo "Trampa de Arándano"
 
 // Marisa
 ja:果実が四方から押し寄せるスペルカード。美味しそうに見えるがとてつもなく酸っぱい
+en:A Spell Card with fruits rushing from every side. They look delicious, but are ridiculously sour.
+es:Una SpellCard con frutas disparadas desde todos lados. Se ven deliciosas, pero son ridiculamente ácidas.
 
 // Reimu
 ja:ベリーにも色々種類があるのね、お菓子や団子で使われているベリーは甘くて好きよ
+en:There are many kinds of berries. The ones I like are the ones used in dumplings, because they're the sweetest.
+es:Hay muchos tipos de bayas. Las que mas me gustan son las usadas en dumplings, ya que son de las mas dulces.
 
 ///////////////////////////////////////////////////////////////////////
 ja:禁忌「レーヴァテイン」
 en:Taboo "Lävatein"
+es:Taboo "Lävatein"
 
 // Marisa
 ja:大きすぎる炎の剣を振り回すスペルカード。避けるのは簡単だが、攻撃を当てるのは難しい
+en:A Spell Card that wields a big flaming sword. Easy to avoid, but hard to get hits in.
+es: Una SpellCard de una gran, flameante espada. Facil de evitar, pero hace dificil el apuntar.
 
 // Reimu
 ja:館でぶんぶん振り回してたけど後片付けが大変そう、これだけ大きいと避けるのも苦労するわね
+en:
+es:
 
 ///////////////////////////////////////////////////////////////////////
