@@ -11,10 +11,14 @@ zh:岐符「猿田彦神之岔路」
 
 // Marisa
 ja:周囲を弾幕で囲うスペルカード。正面は道になっているが何処に案内されるんだろうな
+en:A Spell Card with a barrage of bullets around it. The front is a road, where shall it guide us?
+es:Una SpellCard que te rodea. El frente es siempre un camino, pero hacia donde nos guiará?
 zh:四周被弹幕包围的符卡。虽然正面是路，但会被带到哪里去呢？
 
 // Reimu
 ja:道は"未知"と掛けてあるって、そういう語呂合わせ好きそうよね
+es:"Unknown" kind of rhymes with "road". That seems like an alliteration you would like.
+es:"Desconocido" como que rima con "Camino". Esa parece ser una aliteración que te gustaría.
 zh:道路上挂着“未知”，好像很喜欢这样的谐音呢
 
 ///////////////////////////////////////////////////////////////////////
@@ -35,10 +39,14 @@ zh:塞符「天上天下的照国」
 
 // Marisa
 ja:塞（さえ）の神は悪霊などの侵入を遮る神様だが、道案内や道中安全の神様でもあるらしい
+en:Sae no Kami seems to be the God who blocks evil spirits from entering, but it also seems to be a God of guidance and safety on the way.
+es:Sae no Kami parece ser el Dios que bloquea espíritus malvados de entrar, pero también aprece ser el Dios que guía y cuida en los viajes.
 zh:塞神是阻挡恶灵侵入的神，但似乎也是指路和保卫旅程安全的神
 
 // Reimu
 ja:神様って性質が増えたり減ったり変化したり、案外いい加減な面もあるのよね
+en:God's character sometimes increases, sometimes decreases, sometimes changes, and actually has a sloppy side to it.
+es:El carácter de Dios a veces aumenta, a veces disminuye, a menudo cambia, y tiene muchos aspectos descuidados.
 zh:神的性格有时增加，有时减少，有时变化，其实也有马马虎虎的一面呢
 
 ///////////////////////////////////////////////////////////////////////
@@ -54,10 +62,14 @@ zh:「无双风神」
 
 // Marisa
 ja:超高速で飛び回るスペルカード。ミニ八卦炉で加速したり色々試したが、この速度を出すのは難しいぜ
+es:Spell Card about high-speed flying. I accelerated and tried various things with my mini Hakkero, but it's difficult to get to this speed.
+en:SpellCard acerca de vuelos a alta velocidad. He acelerado e intentado varias cosas con mi mini Hakkero, pero es dificil llegar a tales velocidades.
 zh:超高速飞行的符卡。我试过用迷你八卦炉加速，但很难达到这个速度
 
 // Reimu
 ja:天狗にも色々種類があるけれど、文は烏天狗ね。天狗の中でも更にスピードに秀でているわ
+en:There are many types of tengu, and Aya's a crow one, the fastest of the tengus.
+es:Hay muchos tipos de Tengu, siendo Aya del tipo mas veloz, una tengu cuervo.
 zh:天狗也有各种各样的种类，但是文是鸦天狗呢。在天狗中也更擅长速度
 
 ///////////////////////////////////////////////////////////////////////
