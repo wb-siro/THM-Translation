@@ -119,3 +119,4 @@ es:Minamitsu Murasa
 
 ja:フランドール・スカーレット
 en:Flandre Scarlet
+es:Flandre Scarlet
