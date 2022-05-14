@@ -6,10 +6,14 @@ zh:冻符「完美冻结」
 
 // Marisa
 ja:最近はフルーツ味の弾幕になっているらしい。もう少し小さければ食べやすいんだけどな
+en:It seems that, recently, it became a fruit-flavoured barrage. Though, they'd be easier to eat if they were smaller.
+es.Parece que, recientemente, se convirtió en un bombardeo con sabor frutal. Si fueran mas pequeñas, quizás podría comerlas.
 zh:最近似乎变成了水果味的弹幕。要是变得小一点就更好吃了
 
 // Reimu
 ja:魔理沙が落とした手帳？のようなものを拾ったわ、魔理沙って意外とマメなのよね
+en:Is this dropped notebook Marisa's? She seems surprisingly diligent.
+es:¿Es este cuaderno caído de Marisa? Ella parece ser sorprendentemente diligente.
 zh:是魔理沙丢下的笔记本吗？我捡到了类似的东西，魔理沙意外的勤快啊
 
 ///////////////////////////////////////////////////////////////////////
@@ -20,10 +24,14 @@ zh:雪符「钻石风暴」
 
 // Marisa
 ja:空気中の水蒸気を冷気で結晶化させるスペルカード。見ている分にはとても奇麗だ
+en:A Spell Card that crystallizes the air's water vapor with very cold air. It's very pretty to look at.
+es:Una SpellCard que cristaliza el vapor de agua con aire muy frío. Es muy bonita de ver!
 zh:将空气中的水蒸气用冷气使其结晶化的符卡。看着挺漂亮
 
 // Reimu
 ja:最近神社の付近で妖精を見かける機会が増えた気がする、気のせいかしら
+es:I think I've been seeing more fairies around the shrine lately, though maybe it's just my imagination.
+es:Creo que he estado viendo más hadas en los alrededores del santuario, aunque quizás es solo mi imaginación.
 zh:最近在神社看到妖精的机会变多了，是错觉吗
 
 ///////////////////////////////////////////////////////////////////////
@@ -49,10 +57,14 @@ zh:冰王「霜冻之王」
 
 // Marisa
 ja:夏場にあれば涼しそう。今度チルノにあった時に1つ借りてみるか
+en:It would be "cool" if I had one of those in the summer. I'll try borrowing one next time I'm with Cirno.
+es:Sería genial tener uno de esos en el verano. Voy a pedirle uno prestado a Cirno la proxima vez que nos veamos.
 zh:如果是夏天的话会很凉快。下次找琪露诺的时候借一个试试
 
 // Reimu
 ja:あの氷を使ってかき氷の屋台でもやれば...いいこと思いついちゃった
+en:If we could use that ice in a Shaved Ice cart... I think that would be a great idea!
+es:Si pudieramos usar ese hielo para un carrito de Granizado... Creo que sería una muy buena idea!
 zh:用这块冰做刨冰摊的话......真是件美事
 
 ///////////////////////////////////////////////////////////////////////
@@ -68,10 +80,14 @@ zh:零度「永恒强劲风暴」
 
 // Marisa
 ja:チルノ曰く食らった相手はヤバいらしい。当たるとヤバいが、当たらなければどうということはないぜ
+en:According to Cirno, it's dangerous to eat the bullets. If you don't get hit, there's nothing to worry about, but if you do, it's dangerous.
+es:De acuerdo a Cirno, es peligroso comer el bombardeo. Si no te golpea, no pasa nada, pero si lo hace, es peligroso.
 zh:根据琪露诺的说法，吃下（弹幕）的人也会很危险。中弹似乎会很危险，不中也没什么大不了的
 
 // Reimu
 ja:当たるとどうなるのかしら、当たったことがないから分からないわね
+en:I wonder what happens if I get, hit, since it has never happend to me.
+es:Me pregunto que pasa si te alcanza una bala, como nunca me ha pasado a mi.
 zh:如果Miss会怎么样呢，我还没Miss过，所以不知道
 
 ///////////////////////////////////////////////////////////////////////
@@ -82,10 +98,14 @@ zh:冰符「最终风暴」
 
 // Marisa
 ja:辺り一面を氷雪で覆うスペルカード。闇雲に撃っているだけに見えるが、それが厄介なんだよな
+en:A Spell Card that covers the entire area with ice and snow. It looks like she is shooting blindly, what a pain.
+es:Una SpellCard que cubre el area con hielo y nieve. Pareciera que Ciron está disparando a ciegas, que molestia.
 zh:将冰雪覆盖住四周的符卡。虽然看起来像是在暗云中射击，但是很烦人
 
 // Reimu
 ja:本体を狙って来れば避けるのは簡単なんだけどね、自覚はないみたいだけど
+en:It's easy to avoid if you get close to her, but she doesn't seem to realize it.
+es:Es facil de evtiar si te acercas a ella, pero parece que ella no se ha dado cuenta.
 zh:如果瞄准本体来的话，躲开还是很简单的，不过好像没有意识到
 
 ///////////////////////////////////////////////////////////////////////
@@ -95,8 +115,11 @@ es:Signo de Hada "Diario Perfecto"
 
 // Marisa
 ja:チルノと大妖精の連携スペル。そういえば最近チルノが楽しそうに何かをかいてる姿を見かけるな
+en:Cooperative Spell Card of Cirno and Daiyousei. Come to think of it, I've been seeing Cirno happily writing something recently.
+es:SpellCard Cooperativa entre Cirno y Daiyousei. Ahora que lo pienso, vi recientemente a Cirno felizmente escribiendo algo.
 
 // Reimu
 ja:私も見かけるわね。この本もだけど幻想郷では何かを書きとどめる事が流行ってきているのかもね
-
+en:I've been seeing it too. Maybe it's becoming popular in Gensokyo to write things down, just like this notebook.
+es:También lo he visto. Tal vez escribir cosas en Gensokyo es la nueva moda, tal como este cuaderno.
 ///////////////////////////////////////////////////////////////////////
