@@ -11,6 +11,8 @@ zh:纯符「纯粹的弹幕地狱」
 
 // Marisa
 ja:ランダムに弾幕を展開するスペルカード。スペルカードとしての特徴や派手さはないが純粋に難しい
+en:A Spell Card that randomly unfolds a barrage. Not as distinctive or flashy as others, but genuinely difficult.
+es:Una SpellCard que aleatoriamente despliega un bombardeo. No es tan distintiva u ostentosa como otras, pero si es genuinamente dificil.
 zh:随机发射弹幕的符卡。没有符卡的特征以及华丽，只是纯粹的很难
 
 // Reimu
@@ -30,6 +32,8 @@ zh:「现代的神灵界」
 
 // Marisa
 ja:神霊界と聞くと静かで徳の高そうな場所に感じるが、幻想郷の神様を見ていると案外賑やかだったりしそうだな
+en:When you hear "Spirit World", it feels like a quiet and virtuous place, but when you look at Gensokyo's Gods, they seem unexpectedly lively.
+es:Al escuchar "Mundo Espiritual", se siente como un lugar tranquilo y virtuoso, pero al mirar a los Dioses de Gensokyo, se ven inesperadamente animados.
 zh:随机发射弹幕的符卡。没有符卡的特征以及华丽，只是纯粹的很难
 
 // Reimu
@@ -44,6 +48,8 @@ zh:「无止境的厌恶」
 
 // Marisa
 ja:大量の弾幕が襲いかかってくるスペルカード。欲から生まれる神霊も居たが、これも似たようなものなのか
+en:A Spell Card that throws a massive amount of bullets at you. There are divine spirits born from desire, I'm not sure if this is similar.
+es:Una SpellCard que lanza una cantidad masiva de balas. Hay espíritus divinos nacidos del deseo, es esto acaso algo similar?
 zh:大量弹幕袭击过来的符卡。也有一种从欲望之中诞生的神灵，这也是类似的东西吗
 
 // Reimu
