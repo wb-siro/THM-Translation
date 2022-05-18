@@ -24,7 +24,7 @@ en:A Spell Card that wields a big flaming sword. Easy to avoid, but hard to get 
 es: Una SpellCard de una gran, flameante espada. Facil de evitar, pero hace dificil el apuntar.
 
 // Reimu
-ja:館でぶんぶん振り回してたけど後片付けが大変そう、これだけ大きいと避けるのも苦労するわね
+ja:よくあんなに大きなものをぶんぶん振り回せるわよね、辺りも大変なことになっていたけれど後片付けが心配だわ
 en:
 es:
 
@@ -33,7 +33,7 @@ ja:禁忌「フォーオブアカインド」
 en:Taboo "Four of a Kind"
 
 // Marisa
-ja:
+ja:フランが4人に分身するスペルカード。本体は弱くならないし、分身を操る必要もない。とてもずるい
 
 // Reimu
 ja:
