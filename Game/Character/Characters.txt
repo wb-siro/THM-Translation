@@ -120,3 +120,7 @@ es:Minamitsu Murasa
 ja:フランドール・スカーレット
 en:Flandre Scarlet
 es:Flandre Scarlet
+
+ja:魂魄妖夢
+en:Konpaku Youmu
+es:Konpaku Youmu
