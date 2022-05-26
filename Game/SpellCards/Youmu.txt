@@ -9,5 +9,7 @@ ja:餓王剣「餓鬼十王の報い」
 en:Hungry King Sword "Ten Kings' Retribution on the Preta"
 
 // Marisa
+ja:一瞬で横一文字の斬撃を繰り出すスペルカード。妖夢が構えを見せるとその場に緊張が走り、時間が遅く感じる
 
 // Reimu
+ja:剣術の腕前は超人よね。一応、剣の指南役って聞くけれど、主人は箸より重いものを持っているイメージが湧かないわね...
