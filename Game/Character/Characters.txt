@@ -114,13 +114,17 @@ es:Daiyousei
 zh:大妖精
 
 ja:村紗水蜜
-en:Minamitsu Murasa
-es:Minamitsu Murasa
+en:Murasa Minamitsu
+es:Murasa Minamitsu
 
 ja:フランドール・スカーレット
 en:Flandre Scarlet
 es:Flandre Scarlet
 
 ja:魂魄妖夢
-en:Konpaku Youmu
-es:Konpaku Youmu
+en:Youmu Konpaku
+es:Youmu Konpaku
+
+ja:八雲紫
+en:Yukari Yakumo
+es:Yukari Yakumo
