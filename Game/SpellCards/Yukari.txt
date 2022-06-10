@@ -1,0 +1,9 @@
+///////////////////////////////////////////////////////////////////////
+ja:魍魎「二重黒死蝶」
+en:Sinister Spirits "Double Black Death Butterfly"
+
+// Marisa
+ja:
+
+// Reimu
+ja:
