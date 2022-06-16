@@ -39,7 +39,7 @@ ru:Russian
 zh:Chinese  
 ~~~
 ### We are looking for translation members!
-Contact me via [email](#whiteboard.japan@gmail.com) or [Twitter](#https://twitter.com/wb_siro)
+Contact me via [email](whiteboard.japan@gmail.com) or [Twitter](https://twitter.com/wb_siro)
 
 # 
 In-game text for the Touhou secondary game "Touhou Madouroku".
